@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<!--Made By Sudip Mandal--> 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title></title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/js/uikit.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+</head>
+<body>
+
+    <div id="mainArea">
+        <div uk-sticky="sel-target: .topmenu; cls-active: uk-navbar-sticky">
+            <div class="ui big inverted pink menu topmenu" style="border-radius:0;">
+                <a class="item" uk-navbar-toggle-icon href="#slideout-menu" uk-toggle></a>
+                <a class="item" id="homeBtn" v-on:click="viewselvideos('home')" ><i class="fab fa-fort-awesome"></i></a>
+               
+                <div class="item" style="left:23%;position:absolute;top:-4px;width:60%;">
+                    <div class="ui action input">
+                        <!--icon-->
+                        <input placeholder="Search..." type="text" style="border:none;" v-model="searchTerm" @keyup.enter="search()" >
+                        <button class="ui right icon button" style="background-color:white;" v-on:click="search()"><i class="search icon"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="slideout-menu" uk-offcanvas>
+            <!--="mode: push;"-->
+            <div class="uk-offcanvas-bar" style="background:#e03997;">
+
+                <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+                <h3>Categories</h3>
+
+                <div class="ui large inverted relaxed selection list">
+                    <div class="item" v-for="c in categories">
+                        <div class="content">
+                            <div class="header" v-on:click="viewselvideos(c);" onclick="$('.uk-offcanvas-close').click();" >{{c}}</div>
+                        </div>
+                    </div>
+                   
+                </div>
+
+            </div>
+        </div>
+        <div style="height:30px;"></div>
+        <div class="ui centered container">
+            <div class="ui items"  v-if="!showCatSection">
+                <template v-for="item in searchResults" >
+                    <div v-if="searchResults.length > 0" class="item">
+                        <a class="ui image" v-on:click="playVideo(item.videoId)" style="width:250px;">
+                            <!--<img v-bind:src="item.thumbUrl">-->
+                            <div class="uk-inline" style="color:red;">
+                                <img v-bind:src="item.thumbUrl">
+                                <div class="uk-overlay-primary uk-position-bottom-right" style="padding:5px;">
+
+                                    <div>{{item.duration}}</div>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="content">
+                            <a class="header" v-html="item.title" v-on:click="playVideo(item.videoId)"></a>
+
+                            <div class="description">
+                                <p v-html="item.description"></p>
+                            </div>
+                            <div class="extra">
+                                Channel : {{item.channelName}} ({{item.channelId}})
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </template>
+
+            </div>
+
+            <div class="ui four doubling cards" v-if="showCatSection">
+                <div class="ui card" v-for="item in catResults">
+                    <a class="image" v-on:click="playVideo(item.videoId)">
+                        <!--<img v-bind:src="item.thumbUrl">-->
+                        <div class="uk-inline" style="color:red;">
+                            <img v-bind:src="item.thumbUrl">
+                            <div class="uk-overlay-primary uk-position-bottom-right" style="padding:5px;">
+
+                                <div>{{item.duration}}</div>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="content">
+                        <a class="header"  v-html="item.title" v-on:click="playVideo(item.videoId)"></a>
+                        <div class="meta">
+                            Channel : {{item.channelName}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div v-if="showLoading" class="fa-3x" style="position:absolute;top:48%;left:48%;z-index:10;">
+                <i class="fas fa-yin-yang fa-spin"></i>
+            </div>
+
+            <div id="modal-media-video" class="uk-flex-top" uk-modal>
+                <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
+                    <button class="uk-modal-close-outside" type="button" uk-close v-on:click="clickedVideoUrl='';"></button>
+                    <video id="player" controls playsinline uk-video>
+                        <source id="vidsource" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <script>
+        var app = new Vue({
+            el: "#mainArea",
+            data: {
+                "searchTerm": "",
+                "clickedVideoUrl": "",
+                "categories": [],
+                "showLoading": false,
+                "showCatSection": false,
+                "catResults": [],
+                "searchResults": []
+            },
+            methods: {
+                playVideo: function (videoId) {
+
+                    this.$data.clickedVideoUrl = "https://kyt.azurewebsites.net/stream/" + videoId;
+                    $("#vidsource").attr('src', this.$data.clickedVideoUrl);
+                    $("#player").get(0).load();
+
+                    UIkit.modal("#modal-media-video").show();
+                },
+                search: function () {
+                    var self = this;
+                    self.$data.showCatSection = false;
+                    self.$data.showLoading = true;
+                    self.$data.searchResults = [];
+                    $.get("https://kyt.azurewebsites.net/search/" + encodeURI(this.$data.searchTerm), function (data) {
+                        self.$data.searchResults = data;
+                        self.$data.showLoading = false;
+                    });
+                },
+                viewselvideos: function (cat) {
+                    var self = this;
+                    self.$data.showCatSection = true;
+                    self.$data.showLoading = true;
+                    self.$data.catResults = [];
+
+                    var api = "https://kyt.azurewebsites.net";
+                    if (cat == "home")
+                        api = api + "/HomeVideos"
+                    else
+                        api = api + "/category/" + cat;
+
+                    $.get(api, function (data) {
+                        self.$data.catResults = data;
+                        self.$data.showLoading = false;
+                    });
+                    
+                }
+            }
+        });
+
+        $(document).ready(function () {
+
+            //set video player width
+            $("#player").attr('width', $(screen).get(0).width * 0.7);
+
+            //load home page videos
+            app.viewselvideos('home');
+
+            //Load categories
+            $.get("https://kyt.azurewebsites.net/categories", function(data){
+                app.$data.categories = data;
+            });
+
+        });
+    </script>
+</body>
+</html>
