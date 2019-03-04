@@ -132,7 +132,7 @@
             </div>-->
 
             <div class="ui basic modal">
-                <i class="close icon" v-on:click="clickedVideoId='';"></i>
+                <i class="close icon uk-modal-close-outside" v-on:click="clickedVideoId='';"></i>
                 <div class="content">
                     <video id="player" controls playsinline uk-video v-on:ended="onVideoEnd(clickedVideoId)">
                         <source id="vidsource" type="video/mp4">
