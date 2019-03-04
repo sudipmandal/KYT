@@ -15,7 +15,6 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
-
 </head>
 <body>
 
@@ -69,10 +68,10 @@
         </div>
         <div style="height:30px;"></div>
         <div class="ui centered container">
-            <div class="ui items"  v-if="!showCatSection">
-                <template v-for="item in searchResults" >
+            <div class="ui items" v-if="!showCatSection">
+                <template v-for="item in searchResults">
                     <div v-if="searchResults.length > 0" class="item">
-                        <a class="ui image" v-on:click="playVideo(item.videoId)" style="width:250px;">
+                        <a class="ui image" v-on:click.stop.prevent="playVideo(item.videoId)" style="width:250px;">
                             <!--<img v-bind:src="item.thumbUrl">-->
                             <div class="uk-inline" style="color:red;">
                                 <img v-bind:src="item.thumbUrl">
@@ -83,7 +82,7 @@
                             </div>
                         </a>
                         <div class="content">
-                            <a class="header" v-html="item.title" v-on:click="playVideo(item.videoId)"></a>
+                            <a class="header" v-html="item.title" v-on:click.stop.prevent="playVideo(item.videoId);"></a>
 
                             <div class="description">
                                 <p v-html="item.description"></p>
@@ -111,7 +110,7 @@
                         </div>
                     </a>
                     <div class="content">
-                        <a class="header"  v-html="item.title" v-on:click="playVideo(item.videoId)"></a>
+                        <a class="header" v-html="item.title" v-on:click="playVideo(item.videoId)"></a>
                         <div class="meta">
                             Channel : {{item.channelName}}
                         </div>
@@ -123,9 +122,18 @@
                 <i class="fas fa-yin-yang fa-spin"></i>
             </div>
 
-            <div id="modal-media-video" class="uk-flex-top" uk-modal>
+            <!--<div id="modal-media-video" class="uk-flex-top" uk-modal>
                 <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
                     <button class="uk-modal-close-outside" type="button" uk-close v-on:click="clickedVideoId='';"></button>
+                    <video id="player" controls playsinline uk-video v-on:ended="onVideoEnd(clickedVideoId)">
+                        <source id="vidsource" type="video/mp4">
+                    </video>
+                </div>
+            </div>-->
+
+            <div class="ui basic modal">
+                <i class="close icon" v-on:click="clickedVideoId='';"></i>
+                <div class="content">
                     <video id="player" controls playsinline uk-video v-on:ended="onVideoEnd(clickedVideoId)">
                         <source id="vidsource" type="video/mp4">
                     </video>
@@ -156,7 +164,8 @@
                     $("#vidsource").attr('src', "https://kyt.azurewebsites.net/stream/" + videoId);
                     $("#player").get(0).load();
 
-                    UIkit.modal("#modal-media-video").show();
+                    //UIkit.modal("#modal-media-video").show();
+                    $('.ui.basic.modal').modal('show');
                 },
                 search: function () {
                     var self = this;
