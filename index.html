@@ -45,10 +45,24 @@
                 <div class="ui large inverted relaxed selection list">
                     <div class="item" v-for="c in categories">
                         <div class="content">
-                            <div class="header" v-on:click="viewselvideos(c);" onclick="$('.uk-offcanvas-close').click();" >{{c}}</div>
+                            <div class="header" v-on:click="viewselvideos(c);" onclick="$('.uk-offcanvas-close').click();">{{c}}</div>
                         </div>
                     </div>
-                   
+                </div>
+
+                <h3>Settings</h3>
+
+                <div class="ui large inverted relaxed selection list">
+                    <div class="item">
+                        <div class="content">
+                            <div class="header">
+                                <div class="ui toggle checkbox">
+                                    <input type="checkbox" v-model="autoplay" class="hidden">
+                                    <label style="color:white !important;">Auto Play</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -78,8 +92,6 @@
                                 Channel : {{item.channelName}} ({{item.channelId}})
                             </div>
                         </div>
-
-
                     </div>
 
                 </template>
@@ -113,15 +125,15 @@
 
             <div id="modal-media-video" class="uk-flex-top" uk-modal>
                 <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
-                    <button class="uk-modal-close-outside" type="button" uk-close v-on:click="clickedVideoUrl='';"></button>
-                    <video id="player" controls playsinline uk-video>
+                    <button class="uk-modal-close-outside" type="button" uk-close v-on:click="clickedVideoId='';"></button>
+                    <video id="player" controls playsinline uk-video v-on:ended="onVideoEnd(clickedVideoId)">
                         <source id="vidsource" type="video/mp4">
                     </video>
                 </div>
             </div>
 
         </div>
-    </div>
+    </div>  
 
 
     <script>
@@ -129,7 +141,8 @@
             el: "#mainArea",
             data: {
                 "searchTerm": "",
-                "clickedVideoUrl": "",
+                "clickedVideoId": "",
+                "autoplay": false,
                 "categories": [],
                 "showLoading": false,
                 "showCatSection": false,
@@ -139,8 +152,8 @@
             methods: {
                 playVideo: function (videoId) {
 
-                    this.$data.clickedVideoUrl = "https://kyt.azurewebsites.net/stream/" + videoId;
-                    $("#vidsource").attr('src', this.$data.clickedVideoUrl);
+                    this.$data.clickedVideoId = videoId;
+                    $("#vidsource").attr('src', "https://kyt.azurewebsites.net/stream/" + videoId);
                     $("#player").get(0).load();
 
                     UIkit.modal("#modal-media-video").show();
@@ -172,6 +185,30 @@
                         self.$data.showLoading = false;
                     });
                     
+                },
+                onVideoEnd: function (videoId) {
+                    
+                    if (videoId == '')
+                        return;
+
+                    if (this.$data.autoplay == false)
+                        return;
+
+                    var arrToUse = null;
+                    if (this.$data.showCatSection)
+                        arrToUse = this.$data.catResults;
+                    else
+                        arrToUse = this.$data.searchResults;
+
+                    var nextVideoPos = 0;
+                    for (var i = 0; i < arrToUse.length; i++) {
+                        if (arrToUse[i].videoId == videoId) {
+                            if (i + 1 < arrToUse.length)
+                                nextVideoPos = i + 1;
+                        }
+                    }
+
+                    this.playVideo(arrToUse[nextVideoPos].videoId);
                 }
             }
         });
@@ -189,6 +226,7 @@
                 app.$data.categories = data;
             });
 
+            $('.ui.checkbox').checkbox();
         });
     </script>
 </body>
