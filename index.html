@@ -168,8 +168,13 @@
                     $('.ui.basic.modal').modal('show');
                 },
                 onPlayerClosed: function () {
-                    $("#player").get(0).stop();
+                    $("#player").get(0).pause();
+                    $("#vidsource").attr("src", "");
                     this.$data.clickedVideoId = '';
+
+                    setTimeout(function () {
+                        $("#player").get(0).pause();
+                    }, 200);
                 },
                 search: function () {
                     var self = this;
