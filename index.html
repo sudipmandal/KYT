@@ -132,7 +132,7 @@
             </div>-->
 
             <div class="ui basic modal">
-                <i class="close icon uk-modal-close-outside" v-on:click="clickedVideoId='';"></i>
+                <i class="close icon uk-modal-close-outside" v-on:click="onPlayerClosed();"></i>
                 <div class="content">
                     <video id="player" controls playsinline uk-video v-on:ended="onVideoEnd(clickedVideoId)">
                         <source id="vidsource" type="video/mp4">
@@ -166,6 +166,10 @@
 
                     //UIkit.modal("#modal-media-video").show();
                     $('.ui.basic.modal').modal('show');
+                },
+                onPlayerClosed: function () {
+                    $("#player").get(0).stop();
+                    this.$data.clickedVideoId = '';
                 },
                 search: function () {
                     var self = this;
