@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title></title>
+    <style>
+    
+     html, body {
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
+    
+    hClass {
+     font-family:'Segoe UI Light','Segoe UI',Tahoma,Helvetica,Sans-Serif;
+     font-size:26px;
+     margin-bottom:8px;
+     color:white;
+     font-weight:600;
+     display:block;
+    }
+    
+    h3{
+       font-size:18px !important;
+    }
+    </style>
+</head>
+<body>
+<div style="padding-top:15px;padding-left:5px;">
+      <h1 class="hClass"></h1>
+      <h3 class="hClass"></h3>
+</div>
+<script>
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = window.location.search.substring(1),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : decodeURIComponent(sParameterName[1]);
+        }
+    }
+};
+
+$(document).ready(function(){
+     $('body').css('background-color',getUrlParameter('color'));
+     $('h1').append(getUrlParameter('h1');
+     $('h3').append(getUrlParameter('h3');
+});
+</script>
+</body>
+</html>
