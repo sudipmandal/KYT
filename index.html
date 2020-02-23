@@ -170,7 +170,7 @@
                 playVideo: function (videoId) {
 
                     this.$data.clickedVideoId = videoId;
-                    $("#vidsource").attr('src', ApiEndPoint + "/stream/" + videoId);
+                    $("#vidsource").attr('src', ApiEndpoint + "/stream/" + videoId);
                     $("#player").get(0).load();
 
                     //UIkit.modal("#modal-media-video").show();
