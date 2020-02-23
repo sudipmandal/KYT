@@ -152,6 +152,8 @@
 
 
     <script>
+        var ApiEndpoint = "https://siliconKYT.azurewebsites.net";
+        
         var app = new Vue({
             el: "#mainArea",
             data: {
@@ -168,7 +170,7 @@
                 playVideo: function (videoId) {
 
                     this.$data.clickedVideoId = videoId;
-                    $("#vidsource").attr('src', "https://kyt.azurewebsites.net/stream/" + videoId);
+                    $("#vidsource").attr('src', ApiEndPoint + "/stream/" + videoId);
                     $("#player").get(0).load();
 
                     //UIkit.modal("#modal-media-video").show();
@@ -188,7 +190,7 @@
                     self.$data.showCatSection = false;
                     self.$data.showLoading = true;
                     self.$data.searchResults = [];
-                    $.get("https://kyt.azurewebsites.net/search/" + encodeURI(this.$data.searchTerm), function (data) {
+                    $.get(ApiEndpoint + "/search/" + encodeURI(this.$data.searchTerm), function (data) {
                         self.$data.searchResults = data;
                         self.$data.showLoading = false;
                     });
@@ -199,7 +201,7 @@
                     self.$data.showLoading = true;
                     self.$data.catResults = [];
 
-                    var api = "https://kyt.azurewebsites.net";
+                    var api = ApiEndpoint;
                     if (cat == "home")
                         api = api + "/HomeVideos"
                     else
@@ -247,7 +249,7 @@
             app.viewselvideos('home');
 
             //Load categories
-            $.get("https://kyt.azurewebsites.net/categories", function(data){
+            $.get(ApiEndpoint + "/categories", function(data){
                 app.$data.categories = data;
             });
 
