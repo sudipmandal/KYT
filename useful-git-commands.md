@@ -1,19 +1,23 @@
-To create new local git repo (from a terminal in the folder)
+##Git Useful Commands
 
-git init
+- To create new local git repo (from a terminal in the folder)
 
-To add all files in the folder to the repo
+`git init`
 
-git add .
+- To add all files in the folder to the repo
 
-To commit all files added
+`git add .`
 
-git commit -m "some msg"
+- To commit all files added
 
-To Add repo to Github
-Create a new repo in git hub and copy the .git url
+`git commit -m "some msg"`
 
-git remote add origin ".git URL from github"
-git push --set-upstream origin master
-git pull origin master --allow-unrelated-histories
-git push
+- To Add repo to Github
+
+`git remote add origin ".git URL from github"`
+
+`git push --set-upstream origin master`
+
+`git pull origin master --allow-unrelated-histories`
+
+`git push`
