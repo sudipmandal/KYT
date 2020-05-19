@@ -1,4 +1,4 @@
-##Git Useful Commands
+## Git Useful Commands
 
 - To create new local git repo (from a terminal in the folder)
 
