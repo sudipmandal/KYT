@@ -23,7 +23,9 @@
 `git push`
 
 - To undo last local commit
+
 `git reset --soft HEAD~1`
 
 - To undo last add 
+
 `git reset`
