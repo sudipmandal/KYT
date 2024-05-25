@@ -73,6 +73,5 @@
 0.0.0.0 chat.xboxlive.com
 0.0.0.0 client.discovery.minecraft-services.net
 0.0.0.0 keepalive.softether.org
-0.0.0.0 rbxcdn.com
-0.0.0.0 roblox.com
+
 
