@@ -78,4 +78,5 @@
 0.0.0.0 enchanted.gg
 0.0.0.0 mineville.club
 0.0.0.0 playfabapi.com
+0.0.0.0 mineville.org
 
