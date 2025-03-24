@@ -75,5 +75,6 @@
 0.0.0.0 keepalive.softether.org
 0.0.0.0 mineville.net
 0.0.0.0 manacube.com
+0.0.0.0 enchanted.gg
 
 
