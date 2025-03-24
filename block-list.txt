@@ -74,5 +74,6 @@
 0.0.0.0 client.discovery.minecraft-services.net
 0.0.0.0 keepalive.softether.org
 0.0.0.0 mineville.net
+0.0.0.0 manacube.com
 
 
