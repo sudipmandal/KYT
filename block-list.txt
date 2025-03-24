@@ -79,4 +79,5 @@
 0.0.0.0 mineville.club
 0.0.0.0 playfabapi.com
 0.0.0.0 mineville.org
+0.0.0.0 mineville.io
 
