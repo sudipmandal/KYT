@@ -80,3 +80,5 @@
 0.0.0.0 playfabapi.com
 0.0.0.0 mineville.org
 0.0.0.0 mineville.io
+0.0.0.0 roblox.com
+0.0.0.0 robloxcdn.com
