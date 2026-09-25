@@ -83,3 +83,4 @@
 0.0.0.0 roblox.com
 0.0.0.0 robloxcdn.com
 0.0.0.0 rbxcdn.com
+0.0.0.0 penup.com
