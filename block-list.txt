@@ -90,3 +90,10 @@
 0.0.0.0 x.com
 0.0.0.0 medal.tv
 0.0.0.0 mastodon.social
+0.0.0.0 minecraftservers.org
+0.0.0.0 wynncraft.com
+0.0.0.0 minecraft-server-list.com
+0.0.0.0 minecraft.buzz
+0.0.0.0 bee.mc-complex.com
+0.0.0.0 buzz.lemoncloud.org
+
