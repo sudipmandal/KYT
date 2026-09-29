@@ -10206,6 +10206,7 @@
 0.0.0.0 play.lknextmc.cloud-ip.cc
 0.0.0.0 play.lksmp.fun
 0.0.0.0 play.lnm.wtf
+0.0.0.0 play.lockblock.gg
 0.0.0.0 play.lockedupmc.com
 0.0.0.0 play.lodestonemc.org
 0.0.0.0 play.logikoz.net
