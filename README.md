@@ -23,5 +23,19 @@ Current discovery sources:
 
 A daily Hermes job checks these sources and commits newly advertised domains without removing existing entries.
 
+## Role-playing game block list
+
+`rpg-block-list.txt` is a hosts-format list of official public domains for video games classified in the role-playing genre hierarchy. The updater queries Wikidata for video-game items with official website property `P856`, normalizes the website hostnames, and excludes generic storefront, social-network, wiki, archive, and CDN platforms that would block unrelated content.
+
+The list retains previously discovered domains, is sorted and deduplicated, and is updated daily directly on `master`. It is broad but cannot guarantee every RPG domain on the internet because public metadata changes continuously.
+
+Primary discovery source: [Wikidata Query Service](https://query.wikidata.org/), using the RPG genre hierarchy and official website property documented by [Wikidata WikiProject Video games](https://www.wikidata.org/wiki/Wikidata:WikiProject_Video_games/Properties).
+
+<!-- rpg-domain-count -->
+Current unique RPG domain count: **4,047**.
+
 <!-- minecraft-domain-count -->
 Current unique domain count: **15,204**.
+
+<!-- rpg-domain-count -->
+Current unique RPG domain count: **4,047**.
