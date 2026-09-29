@@ -5509,6 +5509,7 @@
 0.0.0.0 lumoncraft.net
 0.0.0.0 lumorarrnw.aternos.me
 0.0.0.0 lunaearthmc.enderman.cloud
+0.0.0.0 lunamoonsmp.com
 0.0.0.0 lunar.matrixclouds.xyz
 0.0.0.0 lunargrief.pw
 0.0.0.0 lunariamc.com
@@ -5605,6 +5606,7 @@
 0.0.0.0 makatysmp.aternos.me
 0.0.0.0 makichu123.aternos.me
 0.0.0.0 makingshi.minehut.gg
+0.0.0.0 makongmc.com
 0.0.0.0 makssmp.aternos.me
 0.0.0.0 malayaliesfsi1.aternos.me
 0.0.0.0 malicesmp.exaroton.me
@@ -6788,6 +6790,7 @@
 0.0.0.0 mc.wonderproject.co.uk
 0.0.0.0 mc.woodey79.com
 0.0.0.0 mc.worldanarchy.org
+0.0.0.0 mc.worldera.net
 0.0.0.0 mc.worldofatlantida.com
 0.0.0.0 mc.xadale.net
 0.0.0.0 mc.xandaris.space
@@ -12418,6 +12421,7 @@
 0.0.0.0 realm.exaroton.me
 0.0.0.0 realmcraft.online
 0.0.0.0 realmforge.modded.fun
+0.0.0.0 realmi.fi
 0.0.0.0 realmikeminecraft.ddns.net
 0.0.0.0 realminecraft.xyz
 0.0.0.0 realmofcinders.com
