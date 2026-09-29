@@ -1458,6 +1458,7 @@
 0.0.0.0 playdeflector.com
 0.0.0.0 playegress.com
 0.0.0.0 playflock.com
+0.0.0.0 playhop.com
 0.0.0.0 playism-games.com
 0.0.0.0 playism.com
 0.0.0.0 playito.com
