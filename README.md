@@ -32,10 +32,7 @@ The list retains previously discovered domains, is sorted and deduplicated, and 
 Primary discovery source: [Wikidata Query Service](https://query.wikidata.org/), using the RPG genre hierarchy and official website property documented by [Wikidata WikiProject Video games](https://www.wikidata.org/wiki/Wikidata:WikiProject_Video_games/Properties).
 
 <!-- rpg-domain-count -->
-Current unique RPG domain count: **4,047**.
+Current unique RPG domain count: **4,046**.
 
 <!-- minecraft-domain-count -->
 Current unique domain count: **15,204**.
-
-<!-- rpg-domain-count -->
-Current unique RPG domain count: **4,047**.

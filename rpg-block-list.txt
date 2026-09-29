@@ -3473,7 +3473,6 @@
 0.0.0.0 www.realmsofdespair.com
 0.0.0.0 www.rebellion.co.uk
 0.0.0.0 www.redbeakgames.com
-0.0.0.0 www.reddit.com
 0.0.0.0 www.redshift.hu
 0.0.0.0 www.redshirtgame.com
 0.0.0.0 www.redstone-online.com
