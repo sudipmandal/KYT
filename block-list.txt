@@ -84,3 +84,9 @@
 0.0.0.0 robloxcdn.com
 0.0.0.0 rbxcdn.com
 0.0.0.0 penup.com
+0.0.0.0 tiktok.com
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 x.com
+0.0.0.0 medal.tv
+0.0.0.0 mastodon.social
