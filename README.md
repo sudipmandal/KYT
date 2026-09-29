@@ -24,4 +24,4 @@ Current discovery sources:
 A daily Hermes job checks these sources and commits newly advertised domains without removing existing entries.
 
 <!-- minecraft-domain-count -->
-Current unique domain count: **15,203**.
+Current unique domain count: **15,204**.

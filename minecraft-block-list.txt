@@ -9185,6 +9185,7 @@
 0.0.0.0 play.colosseumrealms.xyz
 0.0.0.0 play.coltmc.bond
 0.0.0.0 play.cometsmp.net
+0.0.0.0 play.comfysmp.com
 0.0.0.0 play.commencesmp.com
 0.0.0.0 play.communitycraft.online
 0.0.0.0 play.concordsmp.net
