@@ -275,6 +275,7 @@
 0.0.0.0 brouillard.ru
 0.0.0.0 browserquest.herokuapp.com
 0.0.0.0 browserquest.mozilla.org
+0.0.0.0 browserquests.com
 0.0.0.0 btkt.bn-ent.net
 0.0.0.0 bugfables.dangenentertainment.com
 0.0.0.0 buka.ru
@@ -549,6 +550,7 @@
 0.0.0.0 dungeonsofdredmor.com
 0.0.0.0 duskdiver.wanin.tw
 0.0.0.0 duskdiver2.waningames.com
+0.0.0.0 duskmere-game.com
 0.0.0.0 dxfgames.com
 0.0.0.0 dyinglightgame.com
 0.0.0.0 dysmantle.com
@@ -895,6 +897,7 @@
 0.0.0.0 holydaygames.com
 0.0.0.0 holydaystudios.com
 0.0.0.0 honkaiimpact3.mihoyo.com
+0.0.0.0 hordes.io
 0.0.0.0 horizonwalker.gentlemaniac.com
 0.0.0.0 hornyvilla.com
 0.0.0.0 horrorvale.net
@@ -920,6 +923,7 @@
 0.0.0.0 ia.neocraftstudio.com
 0.0.0.0 iamnotamonster.com
 0.0.0.0 icarus-na.valofe.com
+0.0.0.0 icesus.org
 0.0.0.0 ideafintl.com
 0.0.0.0 iesabel.com
 0.0.0.0 ifi.games
@@ -1268,6 +1272,7 @@
 0.0.0.0 narnok.com
 0.0.0.0 naruto.oasgames.com
 0.0.0.0 naudrion.com
+0.0.0.0 nd1.nodiatis.com
 0.0.0.0 necessegame.com
 0.0.0.0 necropolisgame.com
 0.0.0.0 nectarware.io
@@ -1319,6 +1324,7 @@
 0.0.0.0 notasailorstudios.com
 0.0.0.0 nottonightgame.com
 0.0.0.0 novarama.com
+0.0.0.0 now.gg
 0.0.0.0 noxarchaist.com
 0.0.0.0 noxfallstudios.com
 0.0.0.0 nte.iwplay.com.tw
@@ -1330,6 +1336,7 @@
 0.0.0.0 nuskadamo.carrd.co
 0.0.0.0 nussygame.com
 0.0.0.0 nwatchgames.com
+0.0.0.0 nxrpg.com
 0.0.0.0 oboromuramasakaikitan.marv.jp
 0.0.0.0 obscurantgame.com
 0.0.0.0 oceansoftime.outtheregame.com
@@ -1367,6 +1374,7 @@
 0.0.0.0 outerworlds2.obsidian.net
 0.0.0.0 outriders.square-enix-games.com
 0.0.0.0 outrightgames.com
+0.0.0.0 outwar.com
 0.0.0.0 overactiongamestudio.com
 0.0.0.0 overfallthegame.com
 0.0.0.0 overhitglobal.nexon.com
@@ -1617,6 +1625,7 @@
 0.0.0.0 roguestarrescue.com
 0.0.0.0 roguetemple.com
 0.0.0.0 roguetrader.owlcat.games
+0.0.0.0 rogule.com
 0.0.0.0 roidle.gnjoy.asia
 0.0.0.0 rologfos.com
 0.0.0.0 rome.rangergo.net
@@ -1818,6 +1827,7 @@
 0.0.0.0 stardynasties.com
 0.0.0.0 starfieldgame.com
 0.0.0.0 starrenegades.com
+0.0.0.0 startplaying.games
 0.0.0.0 starwars.ea.com
 0.0.0.0 starwarsgalaxies.station.sony.com
 0.0.0.0 statelysnail.com
@@ -2094,7 +2104,9 @@
 0.0.0.0 vc.gamehours.jp
 0.0.0.0 vdog.iza-yoi.net
 0.0.0.0 vecuryinteractive.com
+0.0.0.0 veilbound.gg
 0.0.0.0 vein.gg
+0.0.0.0 velharrow.online
 0.0.0.0 veloren.net
 0.0.0.0 verdantskies.com
 0.0.0.0 verlies2.e-monsite.com
@@ -2114,6 +2126,7 @@
 0.0.0.0 visitilvard.com
 0.0.0.0 visualnoveler.com
 0.0.0.0 vitahex.weebly.com
+0.0.0.0 viverse.com
 0.0.0.0 vk.com
 0.0.0.0 vmo8.com
 0.0.0.0 voidexpanse.com
@@ -2150,6 +2163,7 @@
 0.0.0.0 wavelightgames.com
 0.0.0.0 waven-game.com
 0.0.0.0 waxycornstudio.com
+0.0.0.0 web.idle-mmo.com
 0.0.0.0 web.uj.com.tw
 0.0.0.0 weibo.com
 0.0.0.0 weirdwest.com
@@ -2187,6 +2201,7 @@
 0.0.0.0 wordgame.cc
 0.0.0.0 worknitegames.com
 0.0.0.0 worl2.world
+0.0.0.0 world-of-dungeons.net
 0.0.0.0 world-senate.com
 0.0.0.0 world.qq.com
 0.0.0.0 worldflipper.jp
@@ -2342,6 +2357,7 @@
 0.0.0.0 www.autarcadev.com
 0.0.0.0 www.authorkurt.com
 0.0.0.0 www.autonomicagame.com
+0.0.0.0 www.avalon-rpg.com
 0.0.0.0 www.avaloncodeds.com
 0.0.0.0 www.avencast.com
 0.0.0.0 www.avernum.com
@@ -2526,6 +2542,7 @@
 0.0.0.0 www.crashablestudios.com
 0.0.0.0 www.crashlands.net
 0.0.0.0 www.crawlersandbrawlers.com
+0.0.0.0 www.crazygames.com
 0.0.0.0 www.creativestormentertainment.com
 0.0.0.0 www.criansoft.com
 0.0.0.0 www.crimsonherring.com
@@ -3018,6 +3035,7 @@
 0.0.0.0 www.inxile-entertainment.com
 0.0.0.0 www.iphigenia-games.com
 0.0.0.0 www.ironoakgames.com
+0.0.0.0 www.ironrealms.com
 0.0.0.0 www.irontowerstudio.com
 0.0.0.0 www.isleward.com
 0.0.0.0 www.islgames.com
@@ -3265,6 +3283,7 @@
 0.0.0.0 www.nobodysavestheworld.com
 0.0.0.0 www.nockedthegame.com
 0.0.0.0 www.nodbrim.com
+0.0.0.0 www.nolvoriaonline.com
 0.0.0.0 www.nomadgames.co.uk
 0.0.0.0 www.nonadecimal.com
 0.0.0.0 www.nonage.net

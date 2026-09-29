@@ -29,10 +29,13 @@ A daily Hermes job checks these sources and commits newly advertised domains wit
 
 The list retains previously discovered domains, is sorted and deduplicated, and is updated daily directly on `master`. It is broad but cannot guarantee every RPG domain on the internet because public metadata changes continuously.
 
-Primary discovery source: [Wikidata Query Service](https://query.wikidata.org/), using the RPG genre hierarchy and official website property documented by [Wikidata WikiProject Video games](https://www.wikidata.org/wiki/Wikidata:WikiProject_Video_games/Properties).
+Primary discovery sources:
+
+- [Wikidata Query Service](https://query.wikidata.org/), using the RPG genre hierarchy and official website property documented by [Wikidata WikiProject Video games](https://www.wikidata.org/wiki/Wikidata:WikiProject_Video_games/Properties)
+- Daily web search for RPG, MMORPG, and browser role-playing websites, with relevance checks and exclusions for generic search, social, wiki, news, and storefront domains
 
 <!-- rpg-domain-count -->
-Current unique RPG domain count: **4,046**.
+Current unique RPG domain count: **4,065**.
 
 <!-- minecraft-domain-count -->
 Current unique domain count: **15,204**.
