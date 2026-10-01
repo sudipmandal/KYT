@@ -134,6 +134,7 @@
 0.0.0.0 arcsystemworks.asia
 0.0.0.0 areyouawizard.co
 0.0.0.0 armello.com
+0.0.0.0 armorgames.com
 0.0.0.0 armorgamesstudios.com
 0.0.0.0 aronsadventure.com
 0.0.0.0 artifacts.xii.jp
@@ -393,6 +394,7 @@
 0.0.0.0 d-rpg.com
 0.0.0.0 dadquestgame.com
 0.0.0.0 dag.blk-quest.com
+0.0.0.0 daisho.game
 0.0.0.0 dakecraft.com
 0.0.0.0 damascusgear.net
 0.0.0.0 danandgarygames.com
@@ -811,6 +813,7 @@
 0.0.0.0 gjol.wangyuan.com
 0.0.0.0 gjqt.wangyuan.com
 0.0.0.0 gjqt3.wangyuan.com
+0.0.0.0 gladiators.game
 0.0.0.0 glaive.games
 0.0.0.0 glassknuckle.com
 0.0.0.0 glc.haowancheng.cn
@@ -1097,6 +1100,7 @@
 0.0.0.0 littlenoah-s.com
 0.0.0.0 loahf.gtarcade.com
 0.0.0.0 lofigames.com
+0.0.0.0 loftia.gg
 0.0.0.0 lofturstudio.com
 0.0.0.0 lonewolfthegame.com
 0.0.0.0 longgonedays.com
@@ -1208,6 +1212,7 @@
 0.0.0.0 millenium-games.de
 0.0.0.0 milmogame.com
 0.0.0.0 mind0.net
+0.0.0.0 minimalroleplay.com
 0.0.0.0 minimartsurvivors.com
 0.0.0.0 minimonos.com
 0.0.0.0 minius.biligame.kr
@@ -2080,6 +2085,7 @@
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 unicornoverlord.atlus.com
 0.0.0.0 unicorntailsthegame.com
+0.0.0.0 unitedonline.com.ar
 0.0.0.0 unleashed-rpg.com
 0.0.0.0 unrealworld.fi
 0.0.0.0 unsungkingdom.laineus.com
@@ -2122,6 +2128,7 @@
 0.0.0.0 villagersandheroes.com
 0.0.0.0 vincae.com
 0.0.0.0 vindictus.nexon.net
+0.0.0.0 vinlandtales.com
 0.0.0.0 virtualcast.jp
 0.0.0.0 visitarges.com
 0.0.0.0 visitilvard.com
@@ -3281,6 +3288,7 @@
 0.0.0.0 www.nival.com
 0.0.0.0 www.nlt-media.com
 0.0.0.0 www.nmati.com
+0.0.0.0 www.nobleknight.com
 0.0.0.0 www.nobodysavestheworld.com
 0.0.0.0 www.nockedthegame.com
 0.0.0.0 www.nodbrim.com
@@ -3534,6 +3542,9 @@
 0.0.0.0 www.rookieminds.com
 0.0.0.0 www.roseportalgames.com
 0.0.0.0 www.rovio.com
+0.0.0.0 www.rpg.net
+0.0.0.0 www.rpgcrossing.com
+0.0.0.0 www.rpgsite.net
 0.0.0.0 www.rtsoft.com
 0.0.0.0 www.rubicondev.com
 0.0.0.0 www.rucoyonline.com
@@ -3833,6 +3844,7 @@
 0.0.0.0 www.toontownrewritten.com
 0.0.0.0 www.topeleven.com
 0.0.0.0 www.toplitz-productions.com
+0.0.0.0 www.toprpsites.com
 0.0.0.0 www.torchlight3.com
 0.0.0.0 www.torchlightgame.com
 0.0.0.0 www.toreternum.com
