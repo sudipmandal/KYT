@@ -445,6 +445,7 @@
 0.0.0.0 decayoflogos.com
 0.0.0.0 decklinsdemise.com
 0.0.0.0 deckofashes.com
+0.0.0.0 dedalium.com
 0.0.0.0 deepdarkdungeon.info
 0.0.0.0 deepestchamber.com
 0.0.0.0 defconxenos.com
@@ -562,6 +563,7 @@
 0.0.0.0 eccgames.com
 0.0.0.0 echo2010.weebly.com
 0.0.0.0 echoofsoul.aeriagames.com
+0.0.0.0 eclipserpg.com
 0.0.0.0 ecoddr.blog.jp
 0.0.0.0 ecognomix.com
 0.0.0.0 eddoursul.win
@@ -752,6 +754,7 @@
 0.0.0.0 gab.com
 0.0.0.0 gaddygames.com
 0.0.0.0 gaijin.ru
+0.0.0.0 gamaverse.com
 0.0.0.0 gambit.mit.edu
 0.0.0.0 game.bilibili.co.jp
 0.0.0.0 game.bilibili.com
@@ -1913,6 +1916,7 @@
 0.0.0.0 tangledeep.com
 0.0.0.0 tanhaji.in
 0.0.0.0 tankbrawl2.com
+0.0.0.0 tapetotapegame.com
 0.0.0.0 tarisglobal.com
 0.0.0.0 tastystewdios.com
 0.0.0.0 tauronglyph.com
@@ -2882,6 +2886,7 @@
 0.0.0.0 www.gameloft.com
 0.0.0.0 www.gamemaga.jp
 0.0.0.0 www.gameofthrones-thegame.com
+0.0.0.0 www.gameogre.com
 0.0.0.0 www.gamerainteractive.it
 0.0.0.0 www.gamersfirst.com
 0.0.0.0 www.gamertogamedeveloper.com
@@ -3479,6 +3484,7 @@
 0.0.0.0 www.quinetime.co.uk
 0.0.0.0 www.quinfall.com
 0.0.0.0 www.quintet.co.jp
+0.0.0.0 www.quora.com
 0.0.0.0 www.rabbitongames.com
 0.0.0.0 www.radcodex.com
 0.0.0.0 www.ragenight.com
@@ -3793,6 +3799,7 @@
 0.0.0.0 www.theamazingamericancircus.com
 0.0.0.0 www.theballadsinger.com
 0.0.0.0 www.thebookofthegame.com
+0.0.0.0 www.thecrims.com
 0.0.0.0 www.thefalconeer.com
 0.0.0.0 www.thefifthfamily.com
 0.0.0.0 www.thegamebakers.com
@@ -3814,6 +3821,7 @@
 0.0.0.0 www.themightyquest.com
 0.0.0.0 www.themolassesflood.com
 0.0.0.0 www.themoonhell.com
+0.0.0.0 www.theninja-rpg.com
 0.0.0.0 www.theredsolstice.com
 0.0.0.0 www.theriansaga.com
 0.0.0.0 www.therogueprinceofpersia.com
