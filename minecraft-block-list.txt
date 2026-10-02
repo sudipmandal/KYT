@@ -1,6 +1,7 @@
 0.0.0.0 0.tcp.eu.ngrok.io
 0.0.0.0 0.tcp.in.ngrok.io
 0.0.0.0 0.tcp.ngrok.io
+0.0.0.0 01unstable.minehut.gg
 0.0.0.0 0209.ddns.net
 0.0.0.0 0255650.xyz
 0.0.0.0 04.jpn.gg
@@ -256,6 +257,7 @@
 0.0.0.0 abyssminesss.minehut.gg
 0.0.0.0 abysssmp1231.minehut.gg
 0.0.0.0 abysssteal.softhost.fun
+0.0.0.0 abyssxstable.minehut.gg
 0.0.0.0 acacianetwork.ploudos.me
 0.0.0.0 account-speaks.gl.joinmc.link
 0.0.0.0 acebixsmp.aternos.me
@@ -572,6 +574,7 @@
 0.0.0.0 angeliccraft.net
 0.0.0.0 angelicmc.org
 0.0.0.0 angu.mcsh.io
+0.0.0.0 angybox.minehut.gg
 0.0.0.0 animacraft.go.ro
 0.0.0.0 animalito18.aternos.me
 0.0.0.0 animalmc.aternos.me
@@ -780,6 +783,7 @@
 0.0.0.0 astralmc.minecraft.pro
 0.0.0.0 astramc.playwithbao.com
 0.0.0.0 astranetworks.mcsh.io
+0.0.0.0 astrapr.minehut.gg
 0.0.0.0 astraysmp.falixsrv.me
 0.0.0.0 astrion.aternos.me
 0.0.0.0 astrixsmp.net
@@ -861,6 +865,7 @@
 0.0.0.0 aurabuildsmc.minehut.gg
 0.0.0.0 auraslayers.spilserver.eu
 0.0.0.0 aurasmpz.aternos.me
+0.0.0.0 aurasurv.minehut.gg
 0.0.0.0 aureummc.net
 0.0.0.0 aurex.funserver.top
 0.0.0.0 auric.rip
@@ -1083,6 +1088,7 @@
 0.0.0.0 bedrock.afterbeyond.net
 0.0.0.0 bedrock.amazehut.net
 0.0.0.0 bedrock.arkonius.de
+0.0.0.0 bedrock.bingomc.net
 0.0.0.0 bedrock.cloudhavenmc.net
 0.0.0.0 bedrock.dungeondodge.minehut.g
 0.0.0.0 bedrock.flowerrealms.minehut.gg
@@ -1546,6 +1552,7 @@
 0.0.0.0 bunkered.minehut.gg
 0.0.0.0 bunnies.playsmp.xyz
 0.0.0.0 bunnyclub.sytes.net
+0.0.0.0 burazneznam1.minehut.gg
 0.0.0.0 burger.cartylo.com
 0.0.0.0 burgercraft-kfdx.aternos.me
 0.0.0.0 burgerfryytevents.kinetichosting.gg
@@ -1962,6 +1969,7 @@
 0.0.0.0 coolseedsmpnet.aternos.me
 0.0.0.0 coolskygens.aternos.me
 0.0.0.0 coolsmp.net
+0.0.0.0 coolsmpaweso.minehut.gg
 0.0.0.0 coolsmpmc.aternos.me
 0.0.0.0 coooolshark.aternos.me
 0.0.0.0 coppercoresmp.mcserver.us
@@ -1990,6 +1998,7 @@
 0.0.0.0 cosmic.mc.gg
 0.0.0.0 cosmicdevserver.aternos.me
 0.0.0.0 cosmiceclips.minehut.gg
+0.0.0.0 cosmicencore.com
 0.0.0.0 cosmiclotus.mcserver.us
 0.0.0.0 cosmicraftpvp.mcalias.com
 0.0.0.0 cosmicsmp.gimzonodes.space
@@ -2279,6 +2288,7 @@
 0.0.0.0 cyamandudewtf.aternos.me
 0.0.0.0 cyanidenw.aternos.me
 0.0.0.0 cybermine.soon.it
+0.0.0.0 cyclecraft.maxcraft.pl
 0.0.0.0 cycleoflife.minehut.gg
 0.0.0.0 cyclesmc.duckdns.org
 0.0.0.0 cyclonenetwork.mcserver.us
@@ -2507,6 +2517,7 @@
 0.0.0.0 diamondsmp.mcsh.io
 0.0.0.0 diamondxsurvival.my.pebble.host
 0.0.0.0 dianaschkabfyq.aternos.me
+0.0.0.0 diasmp67.minehut.gg
 0.0.0.0 dicecraft.de
 0.0.0.0 diddlyversegotcursed.aternos.me
 0.0.0.0 diddysmp000.aternos.me
@@ -2583,6 +2594,7 @@
 0.0.0.0 donatmc.tkmc.net
 0.0.0.0 donator34.gamely.pro
 0.0.0.0 donersmp.top
+0.0.0.0 donkeydic.minehut.gg
 0.0.0.0 donkeymc.com
 0.0.0.0 donorcraft.com
 0.0.0.0 dont.copy.this.justjoinmyradmin
@@ -2683,6 +2695,7 @@
 0.0.0.0 drewontnf.minehut.gg
 0.0.0.0 drfoxbug.aternos.me
 0.0.0.0 drillgens.minehut.gg
+0.0.0.0 drillnet.minehut.gg
 0.0.0.0 drillnetwork.minehut.gg
 0.0.0.0 drillsim.minehut.gg
 0.0.0.0 dripkit.minehut.gg
@@ -3100,6 +3113,7 @@
 0.0.0.0 eval-smp.aternos.me
 0.0.0.0 evanxx0.aternos.me
 0.0.0.0 evb0.minehut.gg
+0.0.0.0 evb0cv.minehut.gg
 0.0.0.0 evb0spkcivs1.minehut.gg
 0.0.0.0 evb2.minehut.gg
 0.0.0.0 evb4.minehut.gg
@@ -3148,6 +3162,7 @@
 0.0.0.0 exandria-mc.minecraft.party
 0.0.0.0 exapleeee.aternos.me
 0.0.0.0 exaroton.tk
+0.0.0.0 excavatormc.minehut.gg
 0.0.0.0 excavators.minehut.gg
 0.0.0.0 exdupesmp.minehut.gg
 0.0.0.0 exionpvp.minesr.com
@@ -3168,6 +3183,7 @@
 0.0.0.0 expressing-wooing.tun.ply.gg
 0.0.0.0 extention.bean.pe
 0.0.0.0 extractionsmp.aternos.me
+0.0.0.0 extrine.minehut.gg
 0.0.0.0 exxtremesmp.aternos.me
 0.0.0.0 exynosmc.aternos.me
 0.0.0.0 exynosme.aternos.me
@@ -3227,6 +3243,7 @@
 0.0.0.0 fallencraft.datahome.cz
 0.0.0.0 fallensmptewo.aternos.me
 0.0.0.0 fallout.thebigdigmc.info
+0.0.0.0 falloutmcc.minehut.gg
 0.0.0.0 familisalles.minehut.gg
 0.0.0.0 familymc.xyz
 0.0.0.0 fan11.minehut.gg
@@ -3516,6 +3533,7 @@
 0.0.0.0 frogspitforest.aternos.me
 0.0.0.0 frontier.terriblefriends.xyz
 0.0.0.0 frontiersmp.strangled.net
+0.0.0.0 froostpvp.minehut.gg
 0.0.0.0 frostacesmp.aternos.me
 0.0.0.0 frostbitesmp.net
 0.0.0.0 frosther.aternos.me
@@ -3990,6 +4008,7 @@
 0.0.0.0 gytercraft.minehost.pro
 0.0.0.0 h.mcs.lol
 0.0.0.0 h0deasu.aternos.me
+0.0.0.0 h3t6.minehut.gg
 0.0.0.0 h4ppyunderscore.aternos.me
 0.0.0.0 h4t.triibu.tech
 0.0.0.0 habitriddle.minehut.gg
@@ -4019,6 +4038,7 @@
 0.0.0.0 hamburger-miner.de
 0.0.0.0 hamburgersmpciyiz.aternos.me
 0.0.0.0 hammersmp.aternos.me
+0.0.0.0 hamnah.minehut.gg
 0.0.0.0 hamzaswe.aternos.me
 0.0.0.0 hamzyraja.aternos.me
 0.0.0.0 hana.mcjoin.cloud
@@ -4726,6 +4746,7 @@
 0.0.0.0 joe123-321.aternos.me
 0.0.0.0 joelserveronline.aternos.me
 0.0.0.0 joesteve1234.aternos.me
+0.0.0.0 joeybad.minehut.gg
 0.0.0.0 joga.redelast.xyz
 0.0.0.0 jogar-redealpha.tk
 0.0.0.0 jogar.absolutgg.com.br
@@ -5572,6 +5593,7 @@
 0.0.0.0 lusohub.minehut.gg
 0.0.0.0 lutra.kro.kr
 0.0.0.0 luvicraft.net
+0.0.0.0 luvlesbians.minehut.gg
 0.0.0.0 lux.mygs.co
 0.0.0.0 luxamc.net
 0.0.0.0 luxicraft.aternos.me
@@ -5611,6 +5633,7 @@
 0.0.0.0 madarffji.minekeep.gg
 0.0.0.0 madeiracraft.mcnetwork.me
 0.0.0.0 madland.aternos.me
+0.0.0.0 maerrusmp.minehut.gg
 0.0.0.0 mafdep.aternos.me
 0.0.0.0 mafiamc.net
 0.0.0.0 mafiamcred.aternos.me
@@ -5672,6 +5695,7 @@
 0.0.0.0 mangonw.keyubu.net
 0.0.0.0 mangosmp.org
 0.0.0.0 manhunt.yolktarkovians.com
+0.0.0.0 manhunt14401.minehut.gg
 0.0.0.0 manhunt234play.aternos.me
 0.0.0.0 manufactory.minehut.gg
 0.0.0.0 manufacturer-unfazed.gl.joinmc.link
@@ -5682,8 +5706,10 @@
 0.0.0.0 map.everwaves.net
 0.0.0.0 map.melonmc.org
 0.0.0.0 map.meteorshower.dedyn.io
+0.0.0.0 map.northdeer.de
 0.0.0.0 map.ogcraft.org
 0.0.0.0 map.ordinary-smp.com
+0.0.0.0 map.protosmp.net
 0.0.0.0 map.thetavern-smp.com
 0.0.0.0 map.tjcsucht.net
 0.0.0.0 map.twilightshollow.org
@@ -6528,6 +6554,7 @@
 0.0.0.0 mc.playshadow.net
 0.0.0.0 mc.playtheatria.com
 0.0.0.0 mc.playtsc.com
+0.0.0.0 mc.playuhc.net
 0.0.0.0 mc.playuno.uk
 0.0.0.0 mc.playvexoramc.com
 0.0.0.0 mc.plutana.co.uk
@@ -9081,6 +9108,7 @@
 0.0.0.0 play.bpdsluts.eu
 0.0.0.0 play.brainrotsmc.ru
 0.0.0.0 play.breadcraft.net
+0.0.0.0 play.breezemc.fun
 0.0.0.0 play.breezesmp.com
 0.0.0.0 play.brexcraft.com
 0.0.0.0 play.briccolini.com
