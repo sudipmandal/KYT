@@ -38,4 +38,4 @@ Primary discovery sources:
 Current unique RPG domain count: **4,097**.
 
 <!-- minecraft-domain-count -->
-Current unique domain count: **15,329**.
+Current unique domain count: **15,342**.
