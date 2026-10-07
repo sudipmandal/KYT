@@ -381,6 +381,7 @@
 0.0.0.0 crystalshard.net
 0.0.0.0 cs.stalker-game.com
 0.0.0.0 cubeuniverse.net
+0.0.0.0 cubicle7games.com
 0.0.0.0 culturesonline.gamigo.com
 0.0.0.0 curious-expedition.com
 0.0.0.0 curse-of-the-dead-gods.com
@@ -1646,10 +1647,12 @@
 0.0.0.0 rpg.jp
 0.0.0.0 rpg.ninjagirls.moe
 0.0.0.0 rpgavalom.com
+0.0.0.0 rpggeek.com
 0.0.0.0 rpgmaker.net
 0.0.0.0 rpgolflegends.com
 0.0.0.0 rpgtime-en.com
 0.0.0.0 rpgtime.jp
+0.0.0.0 rpol.net
 0.0.0.0 rrr3.jp
 0.0.0.0 rsegames.com
 0.0.0.0 ru.4game.com
@@ -2899,6 +2902,7 @@
 0.0.0.0 www.games-farm.com
 0.0.0.0 www.gamesare.com
 0.0.0.0 www.gamesbyzine.com
+0.0.0.0 www.gamesgames.com
 0.0.0.0 www.gamingw.net
 0.0.0.0 www.gangsofsherwood.com
 0.0.0.0 www.ganjawars.ru
