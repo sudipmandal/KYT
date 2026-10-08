@@ -482,6 +482,7 @@
 0.0.0.0 amonghus.aternos.me
 0.0.0.0 amongus.performium.net
 0.0.0.0 amongus868.aternos.me
+0.0.0.0 amongusmcthe.minehut.gg
 0.0.0.0 amp.blazecraft.info
 0.0.0.0 amp.togetherepic.de
 0.0.0.0 ampycraft.com
@@ -604,6 +605,7 @@
 0.0.0.0 anujgamernetwork.aternos.me
 0.0.0.0 anyone-condition.gl.at.ply.gg
 0.0.0.0 aoc.smp.live
+0.0.0.0 aodhs.minehut.gg
 0.0.0.0 aokibox.minehut.gg
 0.0.0.0 aorprasin.aternos.me
 0.0.0.0 apathesia.ddns.net
@@ -762,6 +764,7 @@
 0.0.0.0 ashvirenext.minecraft.surf
 0.0.0.0 asia-1.spirecloud.fun
 0.0.0.0 asia-net1.ethernesia.net
+0.0.0.0 asia.daanarchy.net
 0.0.0.0 asia.hdxcloud.xyz
 0.0.0.0 asia.infernalnexus.xyz
 0.0.0.0 asikill.aternos.me
@@ -1844,11 +1847,13 @@
 0.0.0.0 civtowny.mc.gg
 0.0.0.0 civvsmpz.aternos.me
 0.0.0.0 cjsv.hidenfree.com
+0.0.0.0 cjunstableo.minehut.gg
 0.0.0.0 ck123sssteve.eu.codeminecraft.com
 0.0.0.0 cladecraft.us.to
 0.0.0.0 clanctm.cl
 0.0.0.0 clanssmp.aternos.me
 0.0.0.0 clapcraft.net
+0.0.0.0 clarksonmc.minehut.gg
 0.0.0.0 clarkssmp.aternos.me
 0.0.0.0 clarymc.xyz
 0.0.0.0 clasherpvp.aternos.me
@@ -2573,6 +2578,7 @@
 0.0.0.0 dingo-craft.pokus.cc
 0.0.0.0 dinnerbone73914.aternos.me
 0.0.0.0 dinnosblood.aternos.me
+0.0.0.0 diobraando.minehut.gg
 0.0.0.0 dioritephantom.sparked.network
 0.0.0.0 diplomaticamc.com
 0.0.0.0 dipti.progamer.me
@@ -2980,6 +2986,7 @@
 0.0.0.0 emegemmc.aternos.me
 0.0.0.0 emerald-pvp.exaroton.me
 0.0.0.0 emerald.enderman.cloud
+0.0.0.0 emeraldhooksmp.bedrock.minekeep.gg
 0.0.0.0 emeraldhooksmp.minekeep.gg
 0.0.0.0 emeraldsmp1.enderman.cloud
 0.0.0.0 emeraldsplaying.aternos.me
@@ -3122,6 +3129,7 @@
 0.0.0.0 eternalsmp.online
 0.0.0.0 eternasmp.net
 0.0.0.0 eternitycraft123.aternos.me
+0.0.0.0 eterpiece.csrv.pl
 0.0.0.0 ethercraft.de
 0.0.0.0 ethereall.aternos.me
 0.0.0.0 etherealwilds.minecraft.best
@@ -3947,6 +3955,7 @@
 0.0.0.0 goldmc.xyz
 0.0.0.0 goldskull.aternos.me
 0.0.0.0 goldsmp.uk
+0.0.0.0 golegacysmp.minehut.gg
 0.0.0.0 golemsmp.net
 0.0.0.0 golgemc.playserver.pro
 0.0.0.0 gollicraft.online
@@ -3981,6 +3990,7 @@
 0.0.0.0 grandmas.house
 0.0.0.0 grandsmp.aternos.me
 0.0.0.0 granosnetwork.oyna.tc
+0.0.0.0 grapecarp.minehut.gg
 0.0.0.0 grapemc.xyz
 0.0.0.0 grapessmpxluckyspawn.aternos.me
 0.0.0.0 grasshaters.aternos.me
@@ -4365,6 +4375,7 @@
 0.0.0.0 horizontemc.com
 0.0.0.0 horro.play.minecraftpe
 0.0.0.0 horrorsurvival.serv.nu
+0.0.0.0 hoselead.minehut.gg
 0.0.0.0 host.ampznetwork.com
 0.0.0.0 host2.flynodes.ga
 0.0.0.0 hotdogsmpnet.minehut.gg
@@ -4640,6 +4651,7 @@
 0.0.0.0 infprison.minehut.gg
 0.0.0.0 infratierra.vultam.host
 0.0.0.0 infusesmp-bc22.aternos.me
+0.0.0.0 infveinminer.minehut.gg
 0.0.0.0 ingress.landfall.world
 0.0.0.0 inicialcraft.bed.net.br
 0.0.0.0 inikuthagamers.aternos.me
@@ -4732,6 +4744,7 @@
 0.0.0.0 itinfernosmp.minehut.gg
 0.0.0.0 itisnotopenatthemoment.butiwillopenit
 0.0.0.0 itself-mtv.gl.joinmc.link
+0.0.0.0 itsemurhaaja.minehut.gg
 0.0.0.0 itsluludaking.aternos.me
 0.0.0.0 itsmc.id
 0.0.0.0 itsmeblitz.aternos.me
@@ -4958,6 +4971,7 @@
 0.0.0.0 josipiivo.aternos.me
 0.0.0.0 josuehack121.aternos.me
 0.0.0.0 jouer.madincraft.fr
+0.0.0.0 joulius.minehut.gg
 0.0.0.0 journey.aternos.me
 0.0.0.0 journeyrpg.minehut.gg
 0.0.0.0 joyncraft.com
@@ -5038,6 +5052,7 @@
 0.0.0.0 kaplumbaganetwork.aternos.me
 0.0.0.0 karaspm.aternos.me12079
 0.0.0.0 karinleil.aternos.me
+0.0.0.0 kario.minehut.gg
 0.0.0.0 karisharmony.minehut.gg
 0.0.0.0 karpuzcraft-mrvz.aternos.me
 0.0.0.0 karpuzcrafts.aternos.me
@@ -5105,6 +5120,7 @@
 0.0.0.0 kimicraft.net
 0.0.0.0 kindleroot.gameservers.fun
 0.0.0.0 kindo.me
+0.0.0.0 kindomgens.minehut.gg
 0.0.0.0 kindredvale.mineplay.pro
 0.0.0.0 kineticraft.net
 0.0.0.0 king25a.aternos.me
@@ -5146,6 +5162,7 @@
 0.0.0.0 kitburst.minehut.gg
 0.0.0.0 kitpvp.serv.gs
 0.0.0.0 kitpvpandsmp.aternos.me
+0.0.0.0 kitpvpcustom.minehut.gg
 0.0.0.0 kitpvpking.apexmc.co
 0.0.0.0 kitpvpufu0.aternos.me
 0.0.0.0 kittycatsmp.eu
@@ -7571,10 +7588,12 @@
 0.0.0.0 mnx.lol
 0.0.0.0 moaimatrix.net
 0.0.0.0 mobfighters.mcserv.fun
+0.0.0.0 mobile.spotgames.net
 0.0.0.0 mobismp.aternos.me
 0.0.0.0 mobmasters.minehut.gg
 0.0.0.0 mobrealm.minehut.gg
 0.0.0.0 mobyscraft.net
+0.0.0.0 mobzen.minehut.gg
 0.0.0.0 moca.beanshosting.net
 0.0.0.0 mod00.aternos.me
 0.0.0.0 modded-vanilla.com
