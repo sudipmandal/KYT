@@ -734,6 +734,7 @@
 0.0.0.0 frater.rebelmind.com
 0.0.0.0 freebirdgames.com
 0.0.0.0 freemind.games
+0.0.0.0 freemmocompass.com
 0.0.0.0 freshbody.lovigame.com
 0.0.0.0 freudsbones.com
 0.0.0.0 frickfrack.in
@@ -2270,6 +2271,7 @@
 0.0.0.0 www.aardwolf.com
 0.0.0.0 www.aarikgame.com
 0.0.0.0 www.aarklash-legacy.com
+0.0.0.0 www.aberoth.com
 0.0.0.0 www.abigailcorfman.com
 0.0.0.0 www.abstractsoftwares.com
 0.0.0.0 www.abysscrew.com
@@ -2563,6 +2565,7 @@
 0.0.0.0 www.crashlands.net
 0.0.0.0 www.crawlersandbrawlers.com
 0.0.0.0 www.crazygames.com
+0.0.0.0 www.creagames.com
 0.0.0.0 www.creativestormentertainment.com
 0.0.0.0 www.criansoft.com
 0.0.0.0 www.crimsonherring.com

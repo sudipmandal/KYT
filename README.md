@@ -35,7 +35,7 @@ Primary discovery sources:
 - Daily web search for RPG, MMORPG, and browser role-playing websites, with relevance checks and exclusions for generic search, social, wiki, news, and storefront domains
 
 <!-- rpg-domain-count -->
-Current unique RPG domain count: **4,103**.
+Current unique RPG domain count: **4,106**.
 
 <!-- minecraft-domain-count -->
 Current unique domain count: **15,465**.
