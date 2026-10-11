@@ -2549,6 +2549,7 @@
 0.0.0.0 www.conquestgamesite.com
 0.0.0.0 www.cookieinvaders.com
 0.0.0.0 www.cookierun-kingdom.com
+0.0.0.0 www.coolmathgames.com
 0.0.0.0 www.cornfox.com
 0.0.0.0 www.coromon.com
 0.0.0.0 www.corpsepartygame.com
@@ -2903,6 +2904,7 @@
 0.0.0.0 www.gamerainteractive.it
 0.0.0.0 www.gamersfirst.com
 0.0.0.0 www.gamertogamedeveloper.com
+0.0.0.0 www.games-4-free.com
 0.0.0.0 www.games-farm.com
 0.0.0.0 www.gamesare.com
 0.0.0.0 www.gamesbyzine.com
