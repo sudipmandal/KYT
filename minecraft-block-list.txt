@@ -70,6 +70,7 @@
 0.0.0.0 1justparkour.minehut.gg
 0.0.0.0 1moreblock.com
 0.0.0.0 1nferno.minehut.gg
+0.0.0.0 1nferno2.minehut.gg
 0.0.0.0 1o1c.org
 0.0.0.0 1p1c.joinserver.xyz
 0.0.0.0 1p9w.sytes.net
@@ -148,6 +149,7 @@
 0.0.0.0 31.ip.gl.ply.gg
 0.0.0.0 3b2t.mc.gg
 0.0.0.0 3b3t.co
+0.0.0.0 3blisskit.minehut.gg
 0.0.0.0 3builders.ddns.net
 0.0.0.0 3fmc.com
 0.0.0.0 3kisismp.aternos.me
@@ -339,6 +341,7 @@
 0.0.0.0 aggmc.aternos.me
 0.0.0.0 agicco.mc.gg
 0.0.0.0 agnetwork.mc.land
+0.0.0.0 agoinsmp.minehut.gg
 0.0.0.0 ahad.aternos.me
 0.0.0.0 ahad124.aternos.me
 0.0.0.0 ahh7102.play.hosting
@@ -386,6 +389,7 @@
 0.0.0.0 alessandra89.aternos.me
 0.0.0.0 alessandro.ale.bianca.me
 0.0.0.0 alex12.minefort.com
+0.0.0.0 alexandersnetwork.falixsrv.me
 0.0.0.0 alexko.aternos.me
 0.0.0.0 alexsmp-d5cc.aternos.me
 0.0.0.0 alexsmp2026.aternos.me
@@ -462,6 +466,7 @@
 0.0.0.0 amalthea.civmall.icu
 0.0.0.0 amangamer1539.aternos.me
 0.0.0.0 amanpvp08.aternos.me
+0.0.0.0 amazehut.minehut.gg
 0.0.0.0 amazingxsmp.minehut.gg
 0.0.0.0 amazon-relationship.gl.joinmc.link
 0.0.0.0 amazonshop.aternos.me
@@ -1106,6 +1111,7 @@
 0.0.0.0 beatten.aternos.me
 0.0.0.0 bebra-maximum.ru
 0.0.0.0 bectoanarchy.apexmc.co
+0.0.0.0 bed.survicraft.xyz
 0.0.0.0 bedodob.aternos.me
 0.0.0.0 bedpixels.mcnetwork.me
 0.0.0.0 bedpou.aternos.me
@@ -1115,6 +1121,7 @@
 0.0.0.0 bedrock.bingomc.net
 0.0.0.0 bedrock.cloudhavenmc.net
 0.0.0.0 bedrock.dungeondodge.minehut.g
+0.0.0.0 bedrock.earthservers.net
 0.0.0.0 bedrock.enchantedmc.net
 0.0.0.0 bedrock.flowerrealms.minehut.gg
 0.0.0.0 bedrock.ggplays.net
@@ -1626,6 +1633,8 @@
 0.0.0.0 buzz.cosmosmc.org
 0.0.0.0 buzz.crazymc.net
 0.0.0.0 buzz.creedcraft.fun
+0.0.0.0 buzz.cubecadia.net
+0.0.0.0 buzz.evervale.fun
 0.0.0.0 buzz.fernsmp.net
 0.0.0.0 buzz.frootlysmp.net
 0.0.0.0 buzz.happycloudmc.com
@@ -1636,6 +1645,7 @@
 0.0.0.0 buzz.lemoncloud.org
 0.0.0.0 buzz.mcglobe.net
 0.0.0.0 buzz.minepiece.net
+0.0.0.0 buzz.nauticmc.net
 0.0.0.0 buzz.pvpsmp.net
 0.0.0.0 buzz.remixmc.net
 0.0.0.0 buzz.roammc.net
@@ -1655,6 +1665,7 @@
 0.0.0.0 byal3m.aternos.me
 0.0.0.0 byte.playwithbao.com
 0.0.0.0 c.nerd.nu
+0.0.0.0 c00lber.minehut.gg
 0.0.0.0 c0rrup43d.aternos.me
 0.0.0.0 c0smiclifesteal.aternos.me
 0.0.0.0 c14.play2go.cloud
@@ -2316,6 +2327,7 @@
 0.0.0.0 crystalx.playy.indevs.in
 0.0.0.0 crytalpvpsever.skymc.com
 0.0.0.0 crzxsurvival.minehut.gg
+0.0.0.0 crzysd.minehut.gg
 0.0.0.0 cs.ulon.world
 0.0.0.0 cs88888888.aternos.me
 0.0.0.0 csfrismp.falixsrv.me
@@ -2606,6 +2618,7 @@
 0.0.0.0 die-erbauer.de
 0.0.0.0 dieserblock.mcnetwork.me
 0.0.0.0 digfinity.minehut.gg
+0.0.0.0 diggerchen.minehut.gg
 0.0.0.0 digin.minehut.gg
 0.0.0.0 diginsand.minehut.gg
 0.0.0.0 digtillnumb.joinserver.xyz
@@ -2629,6 +2642,7 @@
 0.0.0.0 dirtshack.net
 0.0.0.0 dirtshacksmp.com
 0.0.0.0 disastermc.qzz.io
+0.0.0.0 disboxx.minehut.gg
 0.0.0.0 discord.havoc.games
 0.0.0.0 discord.holocraft.club
 0.0.0.0 discord.meridianmc.xyz
@@ -2749,6 +2763,7 @@
 0.0.0.0 drakense.top
 0.0.0.0 drakensforgemc.playit.pub
 0.0.0.0 drakoria.fenixhearth.com
+0.0.0.0 drakurasmp.minehut.gg
 0.0.0.0 drapect.aternos.me
 0.0.0.0 draugz.aternos.me
 0.0.0.0 dreadlord22.eu.codeminecraft.com
@@ -2924,6 +2939,7 @@
 0.0.0.0 ecokb.minehut.gg
 0.0.0.0 ecolobby.minehut.gg
 0.0.0.0 economeysmp.minehut.gg
+0.0.0.0 economicgens.minehut.gg
 0.0.0.0 economy-smp.aternos.me
 0.0.0.0 economy1234.aternos.me
 0.0.0.0 economystringsmp.aternos.me
@@ -3734,6 +3750,7 @@
 0.0.0.0 futureink6450-0gzq.aternos.me
 0.0.0.0 futurocraft.duckdns.org
 0.0.0.0 futurycraft.com.br
+0.0.0.0 fuunnsmp.minehut.gg
 0.0.0.0 fuzeiii.aternos.me
 0.0.0.0 fuzzysmp.net
 0.0.0.0 fyioroccoojif.aternos.me
@@ -4237,6 +4254,7 @@
 0.0.0.0 haventide.mintservers.com
 0.0.0.0 havexkingdom.cloud
 0.0.0.0 havoc.devsjoy.in
+0.0.0.0 havocbill.minehut.gg
 0.0.0.0 havok.mcserver.us
 0.0.0.0 hawkgamerx.aternos.me
 0.0.0.0 haxvshacks.aternos.me
@@ -4246,6 +4264,7 @@
 0.0.0.0 haypermc11.aternos.me
 0.0.0.0 hayquaha1thka.aternos.me
 0.0.0.0 hayretybox.minefort.com
+0.0.0.0 hazeclickem.minehut.gg
 0.0.0.0 hazelmc.com
 0.0.0.0 hazemtube.ddnsfree.com
 0.0.0.0 hbhobo.aternos.me
@@ -4868,6 +4887,7 @@
 0.0.0.0 jam102o.aternos.me
 0.0.0.0 jamescsxa.aternos.me
 0.0.0.0 jamesy541.aternos.me
+0.0.0.0 janefinch.minehut.gg
 0.0.0.0 jangawars.club
 0.0.0.0 jasimlegend6.aternos.me
 0.0.0.0 jatinispro.aternos.me
@@ -4904,6 +4924,7 @@
 0.0.0.0 jeedeh.aternos.me
 0.0.0.0 jeeyelpsmp.minehut.gg
 0.0.0.0 jeftmc.aternos.me
+0.0.0.0 jehowacraft.minehut.gg
 0.0.0.0 jellyfields.mcserver.us
 0.0.0.0 jenkzsmp.aternos.me
 0.0.0.0 jenominers.de
@@ -4922,6 +4943,7 @@
 0.0.0.0 jk15243hr0d.aternos.me
 0.0.0.0 jkgaming2007.aternos.me
 0.0.0.0 jktcity.net
+0.0.0.0 jmphoenixsmp.mcsh.io
 0.0.0.0 jms14.aternos.me
 0.0.0.0 jobsysmp.net
 0.0.0.0 joe123-321.aternos.me
@@ -5901,6 +5923,7 @@
 0.0.0.0 mangalboys.aternos.me
 0.0.0.0 mangloo.feathermc.gg
 0.0.0.0 mangloo.qzz.io
+0.0.0.0 mango-net.online
 0.0.0.0 mangoe.falix.me
 0.0.0.0 mangomc.csrv.pl
 0.0.0.0 mangonw.keyubu.net
@@ -5914,6 +5937,7 @@
 0.0.0.0 map.aeolia.xyz
 0.0.0.0 map.amplicity.fr
 0.0.0.0 map.ascoopofvanilla.com
+0.0.0.0 map.blanktopia.com
 0.0.0.0 map.creeperslab.net
 0.0.0.0 map.dustyhub.net
 0.0.0.0 map.everwaves.net
@@ -6275,6 +6299,7 @@
 0.0.0.0 mc.duckcraft.com.br
 0.0.0.0 mc.duckydev.co
 0.0.0.0 mc.dulm.blue
+0.0.0.0 mc.dvivaan.me
 0.0.0.0 mc.dynmc.ru
 0.0.0.0 mc.dystopia.network
 0.0.0.0 mc.earthservers.net
@@ -6453,6 +6478,7 @@
 0.0.0.0 mc.illusioncraft.net
 0.0.0.0 mc.imagiconnd.com
 0.0.0.0 mc.imagineeringfun.net
+0.0.0.0 mc.in-sky.eu
 0.0.0.0 mc.infernalslaughter.com
 0.0.0.0 mc.infernocraftsmp.xyz
 0.0.0.0 mc.infinityop.net
@@ -6707,6 +6733,7 @@
 0.0.0.0 mc.olimpus.com.ar
 0.0.0.0 mc.ominousmc.com
 0.0.0.0 mc.onepeace.net
+0.0.0.0 mc.oniknetwork.xyz
 0.0.0.0 mc.only-craft.hu
 0.0.0.0 mc.onryxcraft.net
 0.0.0.0 mc.op3um.org
@@ -6897,6 +6924,7 @@
 0.0.0.0 mc.shurendal.com
 0.0.0.0 mc.siderealms.com
 0.0.0.0 mc.silkcraft.net
+0.0.0.0 mc.silkmine.net
 0.0.0.0 mc.silvermoon.no
 0.0.0.0 mc.simbocraft.ru
 0.0.0.0 mc.simple-zone.net
@@ -13096,6 +13124,7 @@
 0.0.0.0 satibear.aternos.me
 0.0.0.0 satisfactionsmp.de
 0.0.0.0 saturncraft.xyz
+0.0.0.0 saucyopolis.com
 0.0.0.0 saury.aternos.host
 0.0.0.0 savagebotshj2v.aternos.me
 0.0.0.0 savageland.aternos.me
