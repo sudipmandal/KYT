@@ -233,6 +233,7 @@
 0.0.0.0 blizbr02.wixsite.com
 0.0.0.0 blockcode.games
 0.0.0.0 blog.goo.ne.jp
+0.0.0.0 bloggers.feedspot.com
 0.0.0.0 bloodline.goatgames.com
 0.0.0.0 bloodlust-shadowhunter.com
 0.0.0.0 bloodwars.net
