@@ -324,6 +324,7 @@
 0.0.0.0 choicepublishing.com
 0.0.0.0 chorusworldwide.com
 0.0.0.0 christiangamedevelopersconference.com
+0.0.0.0 chroniclesofarcadia.com
 0.0.0.0 chrysolite.software
 0.0.0.0 ci-en.dlsite.com
 0.0.0.0 ci-en.net
@@ -3380,6 +3381,7 @@
 0.0.0.0 www.palia.com
 0.0.0.0 www.palmkingdoms.com
 0.0.0.0 www.pandum.net
+0.0.0.0 www.pantheonmmo.com
 0.0.0.0 www.paradoxplaza.com
 0.0.0.0 www.paraisoisland.com
 0.0.0.0 www.parallel-game.com
