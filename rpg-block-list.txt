@@ -146,6 +146,7 @@
 0.0.0.0 asia.sega.com
 0.0.0.0 assaultlily.jp
 0.0.0.0 astra.hybeim.com
+0.0.0.0 astraeoratio.plaync.com
 0.0.0.0 astria-ascending.com
 0.0.0.0 astronarch.com
 0.0.0.0 astronomicgames.com
@@ -325,6 +326,7 @@
 0.0.0.0 chorusworldwide.com
 0.0.0.0 christiangamedevelopersconference.com
 0.0.0.0 chroniclesofarcadia.com
+0.0.0.0 chroniclesofdenzar.com
 0.0.0.0 chrysolite.software
 0.0.0.0 ci-en.dlsite.com
 0.0.0.0 ci-en.net
