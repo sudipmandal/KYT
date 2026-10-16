@@ -40,6 +40,7 @@
 0.0.0.0 123peace.aternos.me
 0.0.0.0 123xc10lxsfhz.aternos.me
 0.0.0.0 12500225.aternos.me
+0.0.0.0 129021453242.minehut.gg
 0.0.0.0 12abd123456ctut.aternos.me
 0.0.0.0 12abd123456yli5.aternos.me
 0.0.0.0 12b12t.feathermc.gg
@@ -166,6 +167,7 @@
 0.0.0.0 45862feel-advocate.gl.at.ply.ggfeel-advocate.gl.at.ply.gg
 0.0.0.0 46445mc2016993.fmcs.cloud
 0.0.0.0 4aceeb25.play.servcity.org
+0.0.0.0 4arehere.minehut.gg
 0.0.0.0 4b4s.net
 0.0.0.0 4b4t-jm1t.aternos.me
 0.0.0.0 4b4t.mc-world.net
@@ -182,6 +184,7 @@
 0.0.0.0 50kilo.org
 0.0.0.0 50xcreative.xyz
 0.0.0.0 523mc.apexmc.co
+0.0.0.0 5264823.minehut.gg
 0.0.0.0 53894.aternos.me
 0.0.0.0 5426.aternos.me
 0.0.0.0 544jn2.g-s.nu
@@ -257,6 +260,7 @@
 0.0.0.0 abuji.redstone.tr
 0.0.0.0 abuzittin1235.aternos.me
 0.0.0.0 abysmalsmp.serveminecraft.net
+0.0.0.0 abyssalnet.minehut.gg
 0.0.0.0 abyssbay.net
 0.0.0.0 abysshatterd.minehut.gg
 0.0.0.0 abyssminesss.minehut.gg
@@ -1278,6 +1282,7 @@
 0.0.0.0 blackliferp.online
 0.0.0.0 blackthorn.my.to
 0.0.0.0 blackwater.kinetichosting.gg
+0.0.0.0 blackynoah.minehut.gg
 0.0.0.0 bladavia.online
 0.0.0.0 bladeboyssmp.aternos.me
 0.0.0.0 bladefun.aternos.me
@@ -1495,6 +1500,7 @@
 0.0.0.0 boxpvpvg.aternos.me
 0.0.0.0 boxrng.minehut.gg
 0.0.0.0 boxruins.minehut.gg
+0.0.0.0 boxsteal9.minehut.gg
 0.0.0.0 boxstealmc.exaroton.me
 0.0.0.0 boxswars.aternos.me
 0.0.0.0 boxuniverse.prism.baby
@@ -1561,6 +1567,7 @@
 0.0.0.0 brokenworldrp.com
 0.0.0.0 broogsmp.g-portal.game
 0.0.0.0 brooktrout.aternos.host
+0.0.0.0 broskisbox.minehut.gg
 0.0.0.0 brotalsmp.aternos.me
 0.0.0.0 browngungan8110.aternos.me
 0.0.0.0 brqdford.com
@@ -1743,6 +1750,7 @@
 0.0.0.0 caspiasmp.minehut.gg
 0.0.0.0 cassiodovasco.aternos.me
 0.0.0.0 castarbliss1.minehut.gg
+0.0.0.0 castogang.cldly.gg
 0.0.0.0 casual.universemc.us
 0.0.0.0 casualminecraft.fun
 0.0.0.0 catalin111120.aternos.me
@@ -1813,6 +1821,7 @@
 0.0.0.0 chaoscalvinlzz7.aternos.me
 0.0.0.0 chaoscalvinmcza.aternos.me
 0.0.0.0 chaoscrafta.aternos.me
+0.0.0.0 chaosmc.my.pebble.host
 0.0.0.0 chaosminemmo.aternos.me
 0.0.0.0 chaosserver66.aternos.me
 0.0.0.0 chaossmp.hypixels.pl
