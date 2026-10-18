@@ -1133,6 +1133,7 @@
 0.0.0.0 lostsphear.com
 0.0.0.0 lovelive-as-global.com
 0.0.0.0 lovelive-as.bushimo.jp
+0.0.0.0 lovenikki.elexapp.com
 0.0.0.0 lp.astrum.amebagames.com
 0.0.0.0 ltheory.com
 0.0.0.0 lucidblocks.com
