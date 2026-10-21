@@ -841,6 +841,7 @@
 0.0.0.0 god-eater.com
 0.0.0.0 godfreyluckgames.wixsite.com
 0.0.0.0 godhoodgame.com
+0.0.0.0 godsandmagic.com
 0.0.0.0 godwarsgame.com
 0.0.0.0 goldeneragames.com
 0.0.0.0 goldenland.onfind.net
