@@ -2204,6 +2204,7 @@
 0.0.0.0 wholetonegames.blogspot.com
 0.0.0.0 whyamideadatsea.com
 0.0.0.0 wildermyth.com
+0.0.0.0 wildhearth.fenrislabs.io
 0.0.0.0 wildriver.games
 0.0.0.0 wildwestandwizards.com
 0.0.0.0 williamg.me
