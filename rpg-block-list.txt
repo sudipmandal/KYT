@@ -3415,6 +3415,7 @@
 0.0.0.0 www.piranha-bytes.com
 0.0.0.0 www.pirate101.com
 0.0.0.0 www.pirategalaxy.com
+0.0.0.0 www.pitpanic.game
 0.0.0.0 www.pixelabor.com
 0.0.0.0 www.pixelbypixelcanada.com
 0.0.0.0 www.pixelfade.com
