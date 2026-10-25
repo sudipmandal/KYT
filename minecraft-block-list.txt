@@ -37,6 +37,7 @@
 0.0.0.0 1234ab.aternos.me
 0.0.0.0 1234f6bh.aternos.me
 0.0.0.0 1234zcxo.aternos.me
+0.0.0.0 1234zzzz.minehut.gg
 0.0.0.0 123peace.aternos.me
 0.0.0.0 123xc10lxsfhz.aternos.me
 0.0.0.0 12500225.aternos.me
@@ -134,6 +135,7 @@
 0.0.0.0 2chance.tkmc.me
 0.0.0.0 2daymc.minehut.gg
 0.0.0.0 2ddervmin.aternos.me
+0.0.0.0 2dimensional.minehut.gg
 0.0.0.0 2dlminecraftt.aternos.me
 0.0.0.0 2dservmin.aternos.me
 0.0.0.0 2dupes.minehut.gg
@@ -270,6 +272,7 @@
 0.0.0.0 abyssffaz.minehut.gg
 0.0.0.0 abysshatterd.minehut.gg
 0.0.0.0 abyssminesss.minehut.gg
+0.0.0.0 abyssmpkit.minehut.gg
 0.0.0.0 abysssmp1231.minehut.gg
 0.0.0.0 abysssteal.softhost.fun
 0.0.0.0 abyssxstable.minehut.gg
@@ -286,6 +289,7 @@
 0.0.0.0 acrossthemoss.com
 0.0.0.0 actium145.aternos.me
 0.0.0.0 ad.lordhost.shop
+0.0.0.0 adangerskits.minehut.gg
 0.0.0.0 adaptermc.join-game.net
 0.0.0.0 adariacraft.minesr.com
 0.0.0.0 adatyphsmp.minehut.gg
@@ -356,6 +360,7 @@
 0.0.0.0 agicco.mc.gg
 0.0.0.0 agnetwork.mc.land
 0.0.0.0 agoinsmp.minehut.gg
+0.0.0.0 ah888447.minehut.gg
 0.0.0.0 ahad.aternos.me
 0.0.0.0 ahad124.aternos.me
 0.0.0.0 ahh7102.play.hosting
@@ -471,6 +476,7 @@
 0.0.0.0 altarxklts.minehut.gg
 0.0.0.0 altaytowny.com.tr
 0.0.0.0 altcompany.progamer.me
+0.0.0.0 alte2.minehut.gg
 0.0.0.0 alter5mp.aternos.me
 0.0.0.0 altermc.net
 0.0.0.0 altertails.aternos.me
@@ -486,6 +492,7 @@
 0.0.0.0 amalthea.civmall.icu
 0.0.0.0 amangamer1539.aternos.me
 0.0.0.0 amanpvp08.aternos.me
+0.0.0.0 amazedsmp.minehut.gg
 0.0.0.0 amazehut.minehut.gg
 0.0.0.0 amazingxsmp.minehut.gg
 0.0.0.0 amazon-relationship.gl.joinmc.link
@@ -1575,6 +1582,7 @@
 0.0.0.0 br-03.hostzera.com.br
 0.0.0.0 br-1.legionhost.com.br
 0.0.0.0 br-asc-01.streethosting.com.br
+0.0.0.0 br.boracraft.net
 0.0.0.0 br.mushmc.com
 0.0.0.0 br.webmc.fun
 0.0.0.0 bradendrawz.aternos.me
@@ -2084,6 +2092,7 @@
 0.0.0.0 cocoasworld.aternos.me
 0.0.0.0 cococraft.org
 0.0.0.0 cocomc.org
+0.0.0.0 coderot.minehut.gg
 0.0.0.0 codesmp-wz27.aternos.me
 0.0.0.0 cofy45.aternos.me
 0.0.0.0 coilgens.minehut.gg
@@ -2174,6 +2183,7 @@
 0.0.0.0 corejourney.org
 0.0.0.0 coremc.strangled.net
 0.0.0.0 coremc.tech
+0.0.0.0 coreraid.minehut.gg
 0.0.0.0 coresmp-lifesteal.aternos.me
 0.0.0.0 coresmp.shiftycode.tech
 0.0.0.0 coresmpp.prism.pizza
@@ -2419,6 +2429,7 @@
 0.0.0.0 crustmmo.minecraft.best
 0.0.0.0 cruzsteal.net
 0.0.0.0 cryotechsmp.aternos.me
+0.0.0.0 cryoveqxhc.minehut.gg
 0.0.0.0 cryptedvoid.aternos.me
 0.0.0.0 crypticmc.org
 0.0.0.0 crypticsmp.site
@@ -2493,6 +2504,7 @@
 0.0.0.0 cxsmp.apexmc.co
 0.0.0.0 cyamandudewtf.aternos.me
 0.0.0.0 cyanidenw.aternos.me
+0.0.0.0 cybercitadel.minehut.gg
 0.0.0.0 cybermine.soon.it
 0.0.0.0 cyclecraft.maxcraft.pl
 0.0.0.0 cycleoflife.minehut.gg
@@ -2517,6 +2529,7 @@
 0.0.0.0 dabadsmp.aternos.me
 0.0.0.0 dablos009.aternos.me
 0.0.0.0 daboiis.my-serv.com
+0.0.0.0 daddypapa22.minehut.gg
 0.0.0.0 daemoniacraft.survival-zone.co
 0.0.0.0 daemoniacraft.survival-zone.com
 0.0.0.0 dagoat-lrs7.aternos.me
@@ -3203,8 +3216,10 @@
 0.0.0.0 emptyriver.falix.gg
 0.0.0.0 empyria.es
 0.0.0.0 enchainsmps3.minehut.gg
+0.0.0.0 enchainsmps4.minehut.gg
 0.0.0.0 enchantedmc.minehut.gg
 0.0.0.0 enchantedmc.net
+0.0.0.0 enchantgens.minehut.gg
 0.0.0.0 encoremc.net
 0.0.0.0 endcity.net
 0.0.0.0 endcore.rudracore.site
@@ -3700,6 +3715,7 @@
 0.0.0.0 fluxmc.org
 0.0.0.0 flypixelhub.aternos.me
 0.0.0.0 fnafwithred.minehut.gg
+0.0.0.0 focusrite.minehut.gg
 0.0.0.0 foil-sz.tun.ply.gg
 0.0.0.0 folkanarchy.com
 0.0.0.0 folkforest.minehut.gg
@@ -4045,6 +4061,7 @@
 0.0.0.0 gemssmp2.aternos.me
 0.0.0.0 gemupgrade.minehut.gg
 0.0.0.0 genauycwp.aternos.me
+0.0.0.0 genberry.minehut.gg
 0.0.0.0 genecube.fr
 0.0.0.0 genelites.minehut.gg
 0.0.0.0 generalcos.aternos.me
@@ -4415,6 +4432,7 @@
 0.0.0.0 hardcoresmp12.aternos.me
 0.0.0.0 hardcoresmpig.aternos.me
 0.0.0.0 hardcoresmplg.aternos.me
+0.0.0.0 hardcourse.minehut.gg
 0.0.0.0 hardercore.aternos.me
 0.0.0.0 hardlifediedsmp.aternos.me
 0.0.0.0 hardlinevanilla.com
@@ -4500,6 +4518,7 @@
 0.0.0.0 hecker1936ga.aternos.me
 0.0.0.0 hefazed.exaroton.me
 0.0.0.0 hegicchronicles.com
+0.0.0.0 heian.minehut.gg
 0.0.0.0 heibrusmp.duckdns.org
 0.0.0.0 hekiland.keyubu.net
 0.0.0.0 heldendesbildschirms.dynv6.net
