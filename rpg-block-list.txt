@@ -1878,6 +1878,7 @@
 0.0.0.0 stoneflygame.com
 0.0.0.0 stoneragegame.com
 0.0.0.0 stoneshard.com
+0.0.0.0 stonestorm.gg
 0.0.0.0 stonestoryrpg.com
 0.0.0.0 store.101xp.com
 0.0.0.0 store.privatedivision.com
