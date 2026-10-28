@@ -152,6 +152,7 @@
 0.0.0.0 2perienceorb.minehut.gg
 0.0.0.0 2s2m.tk
 0.0.0.0 2schoolsmp.aternos.me
+0.0.0.0 2weekphaese.minehut.gg
 0.0.0.0 2wk2l.aternos.me
 0.0.0.0 2x2t.org
 0.0.0.0 30thunstable.minehut.gg
@@ -1397,6 +1398,7 @@
 0.0.0.0 blissranked2.minehut.gg
 0.0.0.0 blisssffa.minehut.gg
 0.0.0.0 blisssmd.minehut.gg
+0.0.0.0 blisssmpkitt.minehut.gg
 0.0.0.0 blissst3al.minehut.gg
 0.0.0.0 blisssword.minehut.gg
 0.0.0.0 blissvale.duckdns.org
@@ -2033,6 +2035,7 @@
 0.0.0.0 classic.mc.gg
 0.0.0.0 classic.minerealm.com
 0.0.0.0 classicdata.falixsrv.me
+0.0.0.0 classicfactions.my.pebble.host
 0.0.0.0 classicjavasmp.exaroton.me
 0.0.0.0 classicmc.mine.nu
 0.0.0.0 classicmc.top
@@ -2615,8 +2618,10 @@
 0.0.0.0 darmarsmp.aternos.me
 0.0.0.0 darmetland.lat
 0.0.0.0 darshanpandey231.aternos.me
+0.0.0.0 darthtown.minehut.gg
 0.0.0.0 daskara.aternos.me
 0.0.0.0 daskyblock.apexmc.co
+0.0.0.0 daspeedrunna.minehut.gg
 0.0.0.0 dastick7.aternos.me
 0.0.0.0 dasundersmp.aternos.me
 0.0.0.0 dasycraft.aternos.me
@@ -2645,6 +2650,7 @@
 0.0.0.0 dbscraft.mcsh.io
 0.0.0.0 dc.playcdu.co
 0.0.0.0 dc.vulpinegames.net
+0.0.0.0 dc2.s117.xyz
 0.0.0.0 dctrrsmp.minehut.gg
 0.0.0.0 ddbrothersmp.aternos.me
 0.0.0.0 dddeo.tkmc.net
@@ -2781,6 +2787,7 @@
 0.0.0.0 diddlyversegotcursed.aternos.me
 0.0.0.0 diddysmp000.aternos.me
 0.0.0.0 die-erbauer.de
+0.0.0.0 diegoandjack.minehut.gg
 0.0.0.0 dieserblock.mcnetwork.me
 0.0.0.0 digfinity.minehut.gg
 0.0.0.0 diggerchen.minehut.gg
@@ -3223,6 +3230,7 @@
 0.0.0.0 elytramc.strangled.net
 0.0.0.0 elytrarush.com
 0.0.0.0 elytrasmp.mcsh.io
+0.0.0.0 elytronet.minehut.gg
 0.0.0.0 eman.my.pebble.host
 0.0.0.0 embaasncraft.apexmc.co
 0.0.0.0 emberfallsmp.net
@@ -4176,6 +4184,7 @@
 0.0.0.0 ghostserver.mygs.co
 0.0.0.0 ghostsmp.exaroton.me
 0.0.0.0 gib2g2.aternos.me
+0.0.0.0 gibbtajm.minehut.gg
 0.0.0.0 giblimc.aternos.me
 0.0.0.0 gifts-state.gl.joinmc.link
 0.0.0.0 gigafinger.de
@@ -4185,6 +4194,7 @@
 0.0.0.0 gingesmp.aternos.me
 0.0.0.0 girlietime.aternos.me
 0.0.0.0 girsociety.com
+0.0.0.0 gismos7.minehut.gg
 0.0.0.0 gismp.gbnodes.host
 0.0.0.0 giusyjuve-jdb3.aternos.me
 0.0.0.0 glacia.etherealpe.com
@@ -4247,6 +4257,7 @@
 0.0.0.0 gocookiesmp.minehut.gg
 0.0.0.0 godchantsmp.minehut.gg
 0.0.0.0 goddesodeath.minehut.gg
+0.0.0.0 goddesogems.minehut.gg
 0.0.0.0 godgoku1337.aternos.me
 0.0.0.0 godlesssmp.aternos.me
 0.0.0.0 godmadmad.aternos.me
@@ -4549,6 +4560,7 @@
 0.0.0.0 heartsmp4.minehut.gg
 0.0.0.0 heartsmpbyk.aternos.me
 0.0.0.0 heartssteal.aternos.me
+0.0.0.0 heartste4lz.minehut.gg
 0.0.0.0 heartstealcore.net
 0.0.0.0 heartsteall.aternos.me
 0.0.0.0 heartstealsmp-9-lttv.aternos.me
@@ -5348,6 +5360,7 @@
 0.0.0.0 jonasotnz54t.aternos.me
 0.0.0.0 jongames.com
 0.0.0.0 jonhosting.com
+0.0.0.0 jonmir.org
 0.0.0.0 jonny.iliadboxos.it
 0.0.0.0 jootopia.cc
 0.0.0.0 joozzp.crystalchaos.net
@@ -5395,6 +5408,7 @@
 0.0.0.0 jurassicraftsmp.aternos.me
 0.0.0.0 justanotherhardcore.net
 0.0.0.0 justarandomp2wsmp.aternos.me
+0.0.0.0 justaregsmp.minehut.gg
 0.0.0.0 justasimpleserver.net
 0.0.0.0 justmcc.aternos.me
 0.0.0.0 justmerift.minehut.gg
@@ -5492,6 +5506,7 @@
 0.0.0.0 kevin2.minehut.gg
 0.0.0.0 kevin545214.aternos.me
 0.0.0.0 kevinwiththegamsmp.aternos.me
+0.0.0.0 kezgens.minehut.gg
 0.0.0.0 kg.ryan-simms.com
 0.0.0.0 khalid20.ploudos.me
 0.0.0.0 khaosffa.minehut.gg
@@ -5502,6 +5517,7 @@
 0.0.0.0 kia.ridcloud.my.id
 0.0.0.0 kiankurt23.aternos.me
 0.0.0.0 kidsonlyspm.aternos.me
+0.0.0.0 kidxyzsmp.minehut.gg
 0.0.0.0 kill2earn.com
 0.0.0.0 killagorilla201.aternos.me
 0.0.0.0 killanarchy.minehut.gg
@@ -5662,6 +5678,7 @@
 0.0.0.0 kwmc.blazebr.com
 0.0.0.0 kxop.minehut.gg
 0.0.0.0 kyanvanmolnew.aternos.me
+0.0.0.0 kymanlovers.minehut.gg
 0.0.0.0 kyosmps2.aternos.me
 0.0.0.0 kyromc.aternos.me
 0.0.0.0 l1kesz.aternos.me
@@ -6346,6 +6363,7 @@
 0.0.0.0 mazecraft.com.br
 0.0.0.0 mazen144.aternos.me
 0.0.0.0 mazenmc.xyz
+0.0.0.0 mazeygens.minehut.gg
 0.0.0.0 mazzsmp.aternos.me
 0.0.0.0 mbar.povezlopovezlo.ru
 0.0.0.0 mbs.mysticmc.co
@@ -6546,6 +6564,7 @@
 0.0.0.0 mc.colombocraft.com
 0.0.0.0 mc.comfysmp.com
 0.0.0.0 mc.comugamers.com
+0.0.0.0 mc.connectra.eu.com
 0.0.0.0 mc.corelith.de
 0.0.0.0 mc.corruptedpixelgaming.com
 0.0.0.0 mc.corruptedworld.eu
@@ -7407,6 +7426,7 @@
 0.0.0.0 mc.valhalabr.online
 0.0.0.0 mc.valkyrian-network.com
 0.0.0.0 mc.vanguardmc.org
+0.0.0.0 mc.vanillaexperience.org
 0.0.0.0 mc.vanillahigh.net
 0.0.0.0 mc.vanillahype.com
 0.0.0.0 mc.vanillarealms.com
