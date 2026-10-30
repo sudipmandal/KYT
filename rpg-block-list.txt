@@ -1095,6 +1095,7 @@
 0.0.0.0 legends.pokemon.com
 0.0.0.0 legendsofeisenwald.com
 0.0.0.0 legendsofkingdomrush.com
+0.0.0.0 legendsoftaria.com
 0.0.0.0 legendstudio.com
 0.0.0.0 legionaryslife.com
 0.0.0.0 legrandlegacy.com
@@ -2402,6 +2403,7 @@
 0.0.0.0 www.backtostone.com
 0.0.0.0 www.badgrinco.com
 0.0.0.0 www.bahamut.jp
+0.0.0.0 www.bahastgame.com
 0.0.0.0 www.baldursgate.com
 0.0.0.0 www.baldursgateii.com
 0.0.0.0 www.bandaigames.channel.or.jp
