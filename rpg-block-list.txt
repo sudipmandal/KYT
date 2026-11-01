@@ -1763,6 +1763,8 @@
 0.0.0.0 signup.lotro.com
 0.0.0.0 siimiofficial.imweb.me
 0.0.0.0 silk.ihobo.com
+0.0.0.0 silverpalace.cn
+0.0.0.0 silverpalace.elementagames.com
 0.0.0.0 silverstringmedia.com
 0.0.0.0 silversword-rpg.com
 0.0.0.0 simoncreatives.com
@@ -4106,6 +4108,7 @@
 0.0.0.0 yys.163.com
 0.0.0.0 z.dragon-fang.com
 0.0.0.0 zacharysergi.com
+0.0.0.0 zartgames.com
 0.0.0.0 zatchbell-towakizu.jp
 0.0.0.0 zaxiquej.com
 0.0.0.0 zealrpg.com
