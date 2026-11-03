@@ -3943,6 +3943,7 @@
 0.0.0.0 www.validate-network.org
 0.0.0.0 www.valkyrieprofile.com
 0.0.0.0 www.valkyriestudios.com
+0.0.0.0 www.valormmo.com
 0.0.0.0 www.vampiresdawn.org
 0.0.0.0 www.vanargandgames.com
 0.0.0.0 www.vanguardthegame.com
