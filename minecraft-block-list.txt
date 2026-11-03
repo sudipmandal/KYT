@@ -209,6 +209,7 @@
 0.0.0.0 6.tcp.ngrok.io
 0.0.0.0 60b60t.aternos.me
 0.0.0.0 61b61t.gimzonodes.space
+0.0.0.0 61isabully.minehut.gg
 0.0.0.0 64289142.minehut.gg
 0.0.0.0 67b69t.org
 0.0.0.0 67mc.playwithbao.com
@@ -656,6 +657,7 @@
 0.0.0.0 anujgamernetwork.aternos.me
 0.0.0.0 anyone-condition.gl.at.ply.gg
 0.0.0.0 aoc.smp.live
+0.0.0.0 aoca.sennerd.com
 0.0.0.0 aodhs.minehut.gg
 0.0.0.0 aokibox.minehut.gg
 0.0.0.0 aorprasin.aternos.me
@@ -1001,6 +1003,7 @@
 0.0.0.0 awakensmpseason1.aternos.me
 0.0.0.0 awaroskyblock.aternos.me
 0.0.0.0 awesome7.duckdns.org
+0.0.0.0 awesomegens2.minehut.gg
 0.0.0.0 awesomelandsmp.enderman.cloud
 0.0.0.0 awesomesaucysmp.aternos.me
 0.0.0.0 awesomesmp-1wgi.aternos.me
@@ -1198,6 +1201,7 @@
 0.0.0.0 bedrock.cloudhavenmc.net
 0.0.0.0 bedrock.dungeondodge.minehut.g
 0.0.0.0 bedrock.dungeondodge.minehut.gg
+0.0.0.0 bedrock.earthagainsmp.com
 0.0.0.0 bedrock.earthservers.net
 0.0.0.0 bedrock.enchantedmc.net
 0.0.0.0 bedrock.essencemc.net
@@ -1870,6 +1874,7 @@
 0.0.0.0 caraotacraft.top
 0.0.0.0 carbon.simpley.club
 0.0.0.0 carbondupe.minehut.gg
+0.0.0.0 carlocraft11.minehut.gg
 0.0.0.0 carlodio022.aternos.me
 0.0.0.0 carloplay022.aternos.me
 0.0.0.0 carolyn-ow.tun.ply.gg
@@ -3724,6 +3729,7 @@
 0.0.0.0 fiercepvp.net
 0.0.0.0 fiestafun.aternos.me
 0.0.0.0 fifthempire.minehut.gg
+0.0.0.0 fightformoney.in
 0.0.0.0 fightservers.minehut.gg
 0.0.0.0 fihforlife.minehut.gg
 0.0.0.0 fikiratorfaxyt.aternos.me
@@ -5100,6 +5106,7 @@
 0.0.0.0 infinitebulid.enderman.cloud
 0.0.0.0 infinitemc.mcserver.us
 0.0.0.0 infinitemultiverse.aternos.me
+0.0.0.0 infiniterun.minehut.gg
 0.0.0.0 infinity-smp.net
 0.0.0.0 infinity.luxinfine.su
 0.0.0.0 infinity.redgalaxynetwork.com
@@ -5308,6 +5315,7 @@
 0.0.0.0 jenominers.de
 0.0.0.0 jerkku0009.aternos.me
 0.0.0.0 jerrycraft.de
+0.0.0.0 jessestinkt.minehut.gg
 0.0.0.0 jessxav.minehut.gg
 0.0.0.0 jesuispanulo0tp.aternos.me
 0.0.0.0 jesuispasnul.aternos.me
@@ -5637,6 +5645,7 @@
 0.0.0.0 kingcraft.ddns.net
 0.0.0.0 kingcrafts.freezehost.com
 0.0.0.0 kingdomcore.de
+0.0.0.0 kingdomkits2.minehut.gg
 0.0.0.0 kingdomofgamerssmp.skailarhost.com
 0.0.0.0 kingdompvp.mc-world.net
 0.0.0.0 kingdoms-mc.com
@@ -6100,6 +6109,7 @@
 0.0.0.0 livealife.aternos.me
 0.0.0.0 livelybugged.aternos.me
 0.0.0.0 livemc.xyz
+0.0.0.0 livesmps2.minehut.gg
 0.0.0.0 livingkeyin6.aternos.me
 0.0.0.0 livinglifesmp.exaroton.me
 0.0.0.0 lizardcraft.mc.gg
@@ -6396,6 +6406,7 @@
 0.0.0.0 map.lumamc.net
 0.0.0.0 map.melonmc.org
 0.0.0.0 map.meteorshower.dedyn.io
+0.0.0.0 map.neostralis.com
 0.0.0.0 map.nightshadesmp.net
 0.0.0.0 map.northdeer.de
 0.0.0.0 map.ogcraft.org
