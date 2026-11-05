@@ -483,6 +483,7 @@
 0.0.0.0 differenttales.com
 0.0.0.0 digimonbattle.wemade.net
 0.0.0.0 digimonworld-neo.bn-ent.net
+0.0.0.0 digital-gods.dev
 0.0.0.0 digitaldevilsaga.ghostlight.uk.com
 0.0.0.0 dillyframe.games
 0.0.0.0 dimensity.dagger-games.com
