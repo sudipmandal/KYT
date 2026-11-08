@@ -138,6 +138,7 @@
 0.0.0.0 armorgames.com
 0.0.0.0 armorgamesstudios.com
 0.0.0.0 aronsadventure.com
+0.0.0.0 artifacts.dragonest.com
 0.0.0.0 artifacts.xii.jp
 0.0.0.0 artnrollgames.com
 0.0.0.0 ashesofcreation.com
@@ -2207,6 +2208,7 @@
 0.0.0.0 whiteknuckle.net
 0.0.0.0 whitemagekyle.wixsite.com
 0.0.0.0 whitevortex.com.br
+0.0.0.0 whmx.cipaishe.com
 0.0.0.0 wholetonegames.blogspot.com
 0.0.0.0 whyamideadatsea.com
 0.0.0.0 wildermyth.com
