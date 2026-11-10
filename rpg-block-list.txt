@@ -10,6 +10,7 @@
 0.0.0.0 2zombie.com
 0.0.0.0 38studios.com
 0.0.0.0 3dxchat.com
+0.0.0.0 3xl.net
 0.0.0.0 4089game.wordpress.com
 0.0.0.0 42lab-jp.sunborngame.com
 0.0.0.0 42lab.sunborngame.com
@@ -50,6 +51,7 @@
 0.0.0.0 aetheragame.wordpress.com
 0.0.0.0 afewbitsshort.com
 0.0.0.0 afewdragons.com
+0.0.0.0 afkheroes.xyz
 0.0.0.0 afkjourney.farlightgames.com
 0.0.0.0 afkjourney.lilith.com
 0.0.0.0 afkjourney.ori.tw
@@ -502,6 +504,7 @@
 0.0.0.0 disgaearpg.boltrend.com
 0.0.0.0 disjunction-game.com
 0.0.0.0 dissidiaoperaomnia.square-enix-games.com
+0.0.0.0 divanostudios.com
 0.0.0.0 divinity.com
 0.0.0.0 divinity.game
 0.0.0.0 dk.masanggames.com
@@ -2085,6 +2088,7 @@
 0.0.0.0 tw.beanfun.com
 0.0.0.0 tw.ncsoft.com
 0.0.0.0 twdempires.game
+0.0.0.0 twinklestarknights.jp
 0.0.0.0 twintertainment.com
 0.0.0.0 twisted-nail.com
 0.0.0.0 twoclusters.com
