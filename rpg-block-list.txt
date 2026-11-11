@@ -1897,6 +1897,7 @@
 0.0.0.0 stray-blade.com
 0.0.0.0 straychildren.com
 0.0.0.0 streetsofrogue.com
+0.0.0.0 stringsoffate.kz
 0.0.0.0 stroj.dev
 0.0.0.0 studio-eorari.com
 0.0.0.0 stygianthegame.com
