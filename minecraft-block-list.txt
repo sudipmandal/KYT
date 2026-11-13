@@ -1603,6 +1603,7 @@
 0.0.0.0 bomjicharust.aternos.me
 0.0.0.0 bommbsmp.minehut.gg
 0.0.0.0 bonbill.aternos.me
+0.0.0.0 bonebuds.minehut.gg
 0.0.0.0 bonecraft.online
 0.0.0.0 bongocatsmp.campfirehosting.com
 0.0.0.0 bonkokid.xyz
@@ -1765,6 +1766,7 @@
 0.0.0.0 bubanjcraft.ddns.net
 0.0.0.0 bubblcraft.minehut.gg
 0.0.0.0 bubblesnaps.apexmc.co
+0.0.0.0 bubbletubbie.minehut.gg
 0.0.0.0 buddycraft.es
 0.0.0.0 budget-1.skynodes.in
 0.0.0.0 budget.hexacraft.fun
@@ -1860,6 +1862,7 @@
 0.0.0.0 buzz.mineshaft.gg
 0.0.0.0 buzz.minespot.org
 0.0.0.0 buzz.minevict.us
+0.0.0.0 buzz.minewind.net
 0.0.0.0 buzz.nauticmc.net
 0.0.0.0 buzz.pixelblockmc.com
 0.0.0.0 buzz.pvpsmp.net
@@ -1873,6 +1876,7 @@
 0.0.0.0 buzz.thepondmc.com
 0.0.0.0 buzz.twerion.net
 0.0.0.0 buzz.vanillademon.com
+0.0.0.0 buzz.vanillaeuropa.com
 0.0.0.0 buzz.vanillavista.net
 0.0.0.0 buzz.vanillymc.net
 0.0.0.0 buzz.zedarmc.com
@@ -1891,6 +1895,7 @@
 0.0.0.0 ca.playcdu.co
 0.0.0.0 caatbox.minehut.gg
 0.0.0.0 cabbagesmp-xmnj.aternos.me
+0.0.0.0 cablesmpp.minehut.gg
 0.0.0.0 cablobsmp.aternos.me
 0.0.0.0 cacat433.aternos.me
 0.0.0.0 cactusskygens.minekeep.gg
@@ -1945,6 +1950,7 @@
 0.0.0.0 carrotsmp.enderman.cloud
 0.0.0.0 carsen.minehut.gg
 0.0.0.0 cartercraft123.aternos.me
+0.0.0.0 cartsgen.minehut.gg
 0.0.0.0 cashcpvp.minehut.gg
 0.0.0.0 cashwad.minehut.gg
 0.0.0.0 caspiasmp.minehut.gg
@@ -2459,6 +2465,7 @@
 0.0.0.0 craftsmp.org
 0.0.0.0 craftstones.mcpro.io
 0.0.0.0 craftsurvive2024.aternos.me
+0.0.0.0 craftsylvania.g.nfoservers.com
 0.0.0.0 craftutopia.play-network.io
 0.0.0.0 craftwala.aternos.me
 0.0.0.0 craftworks.mcserver.us
@@ -2718,6 +2725,7 @@
 0.0.0.0 dangerhydra.aternos.me
 0.0.0.0 dangerraid.minehut.gg
 0.0.0.0 daniel.1892.mc
+0.0.0.0 danieldg.minehut.gg
 0.0.0.0 danil2099.aternos.me
 0.0.0.0 danilobestsmp.aternos.me
 0.0.0.0 danishdudesmp.aternos.me
@@ -2980,6 +2988,7 @@
 0.0.0.0 distantlands.blockworlds.io
 0.0.0.0 dittoland.mc.gg
 0.0.0.0 dittysquad.minehut.gg
+0.0.0.0 divansim.minehut.gg
 0.0.0.0 diversitycraft.org
 0.0.0.0 dividebadge.minehut.gg
 0.0.0.0 divineprison.net
@@ -3246,6 +3255,7 @@
 0.0.0.0 e0pb.aternos.me
 0.0.0.0 e68e.aternos.me
 0.0.0.0 eag-anarchy.eagler.host
+0.0.0.0 eaglercraft.co.uk
 0.0.0.0 eagleridgeboys.aternos.me
 0.0.0.0 earshad97142.aternos.me
 0.0.0.0 earth.matrixclouds.site
@@ -10770,6 +10780,7 @@
 0.0.0.0 play.flaggernetwork.fun
 0.0.0.0 play.flakemc.fun
 0.0.0.0 play.flamebournesmp.com
+0.0.0.0 play.flamefrags.com
 0.0.0.0 play.flamemc.top
 0.0.0.0 play.flancraft.com
 0.0.0.0 play.flaremc.org
