@@ -883,6 +883,7 @@
 0.0.0.0 haradanspy.wixsite.com
 0.0.0.0 harebrained-schemes.com
 0.0.0.0 harvestdaysgame.net
+0.0.0.0 hassle.online
 0.0.0.0 hatena-ttoc.com
 0.0.0.0 havenparkgame.com
 0.0.0.0 hazen.daggergames.com
@@ -1866,6 +1867,7 @@
 0.0.0.0 starwarsgalaxies.station.sony.com
 0.0.0.0 statelysnail.com
 0.0.0.0 staticcitygames.com
+0.0.0.0 stationify.fi
 0.0.0.0 steam.anomaly-zone.net
 0.0.0.0 steamcommunity.com
 0.0.0.0 steamdb.info
