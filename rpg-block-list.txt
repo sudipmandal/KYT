@@ -2240,6 +2240,7 @@
 0.0.0.0 wizardry.info
 0.0.0.0 wl.chinesegamer.net
 0.0.0.0 wlovecrafthelpme.wixsite.com
+0.0.0.0 wohgame.com
 0.0.0.0 wolfstridegame.com
 0.0.0.0 woods.garenburg.com
 0.0.0.0 woollywalrusgames.com
