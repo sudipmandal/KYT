@@ -304,6 +304,7 @@
 0.0.0.0 carbongames.com
 0.0.0.0 cargocollective.com
 0.0.0.0 casinorpg.com
+0.0.0.0 castledarkmoor.com
 0.0.0.0 castleinthedarkness.mattkap.net
 0.0.0.0 castvrgame.com
 0.0.0.0 cataclysmdda.org
