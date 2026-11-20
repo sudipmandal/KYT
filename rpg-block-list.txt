@@ -989,6 +989,7 @@
 0.0.0.0 irrationalgames.ghoststorygames.com
 0.0.0.0 iseeredgame.com
 0.0.0.0 island.bonomo.cloud
+0.0.0.0 isles.gg
 0.0.0.0 itsmyshowproductions.com
 0.0.0.0 itsuali.jp
 0.0.0.0 j4nw.com
@@ -2071,6 +2072,7 @@
 0.0.0.0 tox2.tales-ch.jp
 0.0.0.0 toxicbeast.com
 0.0.0.0 toz.tales-ch.jp
+0.0.0.0 trailmarkgames.com
 0.0.0.0 trailsinthesky.com
 0.0.0.0 trailsofcoldsteel.com
 0.0.0.0 transcendence.kronosaur.com
