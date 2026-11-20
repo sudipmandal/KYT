@@ -1243,6 +1243,7 @@
 0.0.0.0 bedrock.balsmp.net
 0.0.0.0 bedrock.bingomc.net
 0.0.0.0 bedrock.cloudhavenmc.net
+0.0.0.0 bedrock.craftvalley.de
 0.0.0.0 bedrock.drillnet.minehut.gg
 0.0.0.0 bedrock.dungeondodge.minehut.g
 0.0.0.0 bedrock.dungeondodge.minehut.gg
@@ -1837,6 +1838,8 @@
 0.0.0.0 burgercraft-kfdx.aternos.me
 0.0.0.0 burgerfryytevents.kinetichosting.gg
 0.0.0.0 burgernative.minehut.gg
+0.0.0.0 burgersmpsequel.bedrock.minekeep.gg
+0.0.0.0 burgersmpsequel.minekeep.gg
 0.0.0.0 burgeru2025.aternos.me
 0.0.0.0 burguenopolis.minesurvival.com.br
 0.0.0.0 burial.minehut.gg
@@ -4564,6 +4567,7 @@
 0.0.0.0 goblinsmp.org
 0.0.0.0 gocookiesmp.minehut.gg
 0.0.0.0 godchantsmp.minehut.gg
+0.0.0.0 goddedsmp.falixsrv.me
 0.0.0.0 goddesoaltar.minehut.gg
 0.0.0.0 goddesodeath.minehut.gg
 0.0.0.0 goddesogems.minehut.gg
@@ -5014,6 +5018,7 @@
 0.0.0.0 hirewars.aternos.me
 0.0.0.0 hispagamers.club
 0.0.0.0 hispaniamc1.aternos.me
+0.0.0.0 hispanosmc.net
 0.0.0.0 hispenix.aternos.me
 0.0.0.0 historic36.minehut.gg
 0.0.0.0 hitecraft.aternos.me
@@ -6836,6 +6841,7 @@
 0.0.0.0 mc-wal.net
 0.0.0.0 mc-wyiz.net
 0.0.0.0 mc.077066.xyz
+0.0.0.0 mc.12345em.ru
 0.0.0.0 mc.123c.ru
 0.0.0.0 mc.1b2t.xyz
 0.0.0.0 mc.2lsik.eu
@@ -8660,6 +8666,7 @@
 0.0.0.0 moonlightmix7vfqq.aternos.me
 0.0.0.0 moonlightnetwork.minecraft.co.com
 0.0.0.0 moonlightsaga.online
+0.0.0.0 moonlitsmp.mcsh.io
 0.0.0.0 moonmc.bot.nu
 0.0.0.0 moonmc.hexgame.in
 0.0.0.0 moonvalesmp.xyz
@@ -9763,6 +9770,7 @@
 0.0.0.0 permadeath.mcnetwork.me
 0.0.0.0 permc.ir
 0.0.0.0 perpetualsurvival.com
+0.0.0.0 perplexity.falixsrv.me
 0.0.0.0 persival.firav.us
 0.0.0.0 peruland.net
 0.0.0.0 petalcraft.us
@@ -10416,6 +10424,7 @@
 0.0.0.0 play.cloudvale.co.uk
 0.0.0.0 play.cloudverse.fun
 0.0.0.0 play.clovemc.com
+0.0.0.0 play.clovesmp.com
 0.0.0.0 play.clowmcpe.lat
 0.0.0.0 play.clubcolony.in
 0.0.0.0 play.clubsmp.fun
@@ -10816,6 +10825,7 @@
 0.0.0.0 play.enderelite.com
 0.0.0.0 play.endereyesmp.org
 0.0.0.0 play.enderland.ro
+0.0.0.0 play.endermere.com
 0.0.0.0 play.endernetwork.fun
 0.0.0.0 play.endlessnation.org
 0.0.0.0 play.endmc.in
@@ -10899,6 +10909,7 @@
 0.0.0.0 play.fafomc.net
 0.0.0.0 play.fahrsmp.com
 0.0.0.0 play.faisals-smp.net
+0.0.0.0 play.fallenflare.net
 0.0.0.0 play.falloutmc.eu
 0.0.0.0 play.falloutmc.net
 0.0.0.0 play.fangmc.online
@@ -11335,6 +11346,7 @@
 0.0.0.0 play.just-mc.com
 0.0.0.0 play.justminecraft.org
 0.0.0.0 play.k4m0b4.com
+0.0.0.0 play.kaasblocksmp.nl
 0.0.0.0 play.kaascraft.nl
 0.0.0.0 play.kaboom.pw
 0.0.0.0 play.kachhuamc.fun
@@ -11533,6 +11545,7 @@
 0.0.0.0 play.lunarbd.fun
 0.0.0.0 play.lunargens.net
 0.0.0.0 play.lunariaminecraft.com
+0.0.0.0 play.lunarisland.net
 0.0.0.0 play.lunarlabs.fun
 0.0.0.0 play.lunarmc.lol
 0.0.0.0 play.lunarmc.online
@@ -11602,6 +11615,7 @@
 0.0.0.0 play.mayari.space
 0.0.0.0 play.mazecraftmc.fun
 0.0.0.0 play.mc-ages.com
+0.0.0.0 play.mc-aires.com
 0.0.0.0 play.mc-barbercraft.com
 0.0.0.0 play.mc-block.com
 0.0.0.0 play.mc-complex.com
@@ -12242,6 +12256,7 @@
 0.0.0.0 play.projects.gg
 0.0.0.0 play.prosperiamc.com
 0.0.0.0 play.prosperprison.com
+0.0.0.0 play.prostudios.2bd.net
 0.0.0.0 play.prostudios.ice.lol
 0.0.0.0 play.protectorscraft.us
 0.0.0.0 play.protosmp.net
@@ -12428,7 +12443,9 @@
 0.0.0.0 play.sagemc.net
 0.0.0.0 play.saigonmc.com
 0.0.0.0 play.sakura.net.tr
+0.0.0.0 play.sakurasmp.net
 0.0.0.0 play.salmanyt.qzz.io
+0.0.0.0 play.salsamukk.in
 0.0.0.0 play.saltivate.org
 0.0.0.0 play.saltwaterscourge.com
 0.0.0.0 play.saltysmp.net
@@ -12695,6 +12712,7 @@
 0.0.0.0 play.starworksmc.us
 0.0.0.0 play.staticstudios.net
 0.0.0.0 play.statxu.top
+0.0.0.0 play.staychill.eu
 0.0.0.0 play.stealcore.fun
 0.0.0.0 play.stealskill.lol
 0.0.0.0 play.steeltonmc.com
@@ -13000,6 +13018,7 @@
 0.0.0.0 play.vanity-mc.net
 0.0.0.0 play.vantamc.com
 0.0.0.0 play.vapermc.net
+0.0.0.0 play.varelon.net
 0.0.0.0 play.vastalamc.net
 0.0.0.0 play.vaultxmc.fun
 0.0.0.0 play.vcrafter.xyz
@@ -13184,6 +13203,7 @@
 0.0.0.0 play.yellowmc.xyz
 0.0.0.0 play.yeticraft.fun
 0.0.0.0 play.yetinp.fun
+0.0.0.0 play.yieldmc.net
 0.0.0.0 play.yistars.net
 0.0.0.0 play.yogobo.xyz
 0.0.0.0 play.yokoso.site
@@ -13781,6 +13801,7 @@
 0.0.0.0 redxstreak.play.minekube.net
 0.0.0.0 reep.no
 0.0.0.0 refat7.aternos.me
+0.0.0.0 refinedvanilla.net
 0.0.0.0 reforgednetwork.com
 0.0.0.0 refractionsmp.serverminer.com
 0.0.0.0 refugiacraft.de
@@ -14083,6 +14104,7 @@
 0.0.0.0 scpsixfour.falixsrv.me
 0.0.0.0 scpsteve.aternos.me
 0.0.0.0 scraft.enderman.cloud
+0.0.0.0 scrambleddream.com
 0.0.0.0 scrambleddream.my.pebble.host
 0.0.0.0 scraplandssmp.aternos.me
 0.0.0.0 scraps.pyroneon.net
