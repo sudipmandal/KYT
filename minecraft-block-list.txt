@@ -495,10 +495,12 @@
 0.0.0.0 already-opposite.gl.joinmc.link
 0.0.0.0 altarcritz.minehut.gg
 0.0.0.0 altarer.minehut.gg
+0.0.0.0 altarfightz.minehut.gg
 0.0.0.0 altargenx.minehut.gg
 0.0.0.0 altarhub.minehut.gg
 0.0.0.0 altarkitted.minehut.gg
 0.0.0.0 altarly.minehut.gg
+0.0.0.0 altarreborn.minehut.gg
 0.0.0.0 altarrelics.minehut.gg
 0.0.0.0 altarsmp2ffa.minehut.gg
 0.0.0.0 altarsmp50.minehut.gg
@@ -1274,6 +1276,8 @@
 0.0.0.0 bedrock.meowcraftsmp.com
 0.0.0.0 bedrock.mineservertraffic.space
 0.0.0.0 bedrock.minetrade.org
+0.0.0.0 bedrock.nihilium.org
+0.0.0.0 bedrock.omnismp.com
 0.0.0.0 bedrock.oneblockmc.com
 0.0.0.0 bedrock.opblocks.com
 0.0.0.0 bedrock.orebound.net
@@ -1508,6 +1512,7 @@
 0.0.0.0 blissvale.duckdns.org
 0.0.0.0 blisswar.minehut.gg
 0.0.0.0 blissxyz1.minehut.gg
+0.0.0.0 blitz-mc.online
 0.0.0.0 blitzmc.fun
 0.0.0.0 blitzmc.net
 0.0.0.0 blitzsgen.minehut.gg
@@ -1576,6 +1581,7 @@
 0.0.0.0 bloomveil.kvalhub.fun
 0.0.0.0 blooperssmp.aternos.me
 0.0.0.0 blossomlegends.com
+0.0.0.0 blossomsbuzz.minehut.gg
 0.0.0.0 blossomsmp3.minehut.gg
 0.0.0.0 blox.minefort.com
 0.0.0.0 bloxbrozsmp.falix.me
@@ -1709,6 +1715,7 @@
 0.0.0.0 boxuniverse.prism.baby
 0.0.0.0 boxwind.minehut.gg
 0.0.0.0 boxxed2.minehut.gg
+0.0.0.0 boxxed3.minehut.gg
 0.0.0.0 bozkirmc.aternos.me
 0.0.0.0 bozoserver.it
 0.0.0.0 bpvp.aternos.me
@@ -1718,6 +1725,7 @@
 0.0.0.0 br-03.hostzera.com.br
 0.0.0.0 br-1.legionhost.com.br
 0.0.0.0 br-asc-01.streethosting.com.br
+0.0.0.0 br-eco-25.reis.host
 0.0.0.0 br.boracraft.net
 0.0.0.0 br.mushmc.com
 0.0.0.0 br.webmc.fun
@@ -2182,6 +2190,7 @@
 0.0.0.0 cimencraft.net
 0.0.0.0 cinamount.net
 0.0.0.0 cinder.play-network.io
+0.0.0.0 cindercivs.com
 0.0.0.0 cins.bestmc.fun
 0.0.0.0 circlegate.minehut.gg
 0.0.0.0 ciscos-ultimate.hacktheplanet.now
@@ -2989,6 +2998,7 @@
 0.0.0.0 devourlife.aternos.me
 0.0.0.0 devproduce.minehut.gg
 0.0.0.0 devsanarchy.xyz
+0.0.0.0 devschillsmp.minehut.gg
 0.0.0.0 dexagonsmp.minehut.gg
 0.0.0.0 dexsmp.mcgg.nl
 0.0.0.0 dexzensmp.minehut.gg
@@ -3283,6 +3293,7 @@
 0.0.0.0 dungeondodge.net
 0.0.0.0 dungeonwars.apexmc.co
 0.0.0.0 dungeteckgaming.duckdns.org
+0.0.0.0 dunheonz.minehut.gg
 0.0.0.0 dunyamc.aternos.me
 0.0.0.0 dupe360.minehut.gg
 0.0.0.0 dupeabuce.minehut.gg
@@ -3462,9 +3473,11 @@
 0.0.0.0 eliem3.minehut.gg
 0.0.0.0 eliloud12.aternos.me
 0.0.0.0 elipsemc.aternos.me
+0.0.0.0 elite.rapy.gg
 0.0.0.0 eliteacademyrp.mcsh.io
 0.0.0.0 eliteanarchy.org
 0.0.0.0 eliteminecraftsmp.aternos.me
+0.0.0.0 elitemoon.minehut.gg
 0.0.0.0 elitesmp.online
 0.0.0.0 elitesmpop12.aternos.me
 0.0.0.0 elixiamc.mcsvtr.com.tr
@@ -3506,6 +3519,7 @@
 0.0.0.0 emberstead.cloud-ip.cc
 0.0.0.0 emberwild.mossfall.net
 0.0.0.0 emberworldsmp.minefort.com
+0.0.0.0 embrixsmp.minehut.gg
 0.0.0.0 emegemmc.aternos.me
 0.0.0.0 emerald-pvp.exaroton.me
 0.0.0.0 emerald.enderman.cloud
@@ -3924,6 +3938,7 @@
 0.0.0.0 feffarfcraft.mygs.co
 0.0.0.0 feitstorbasj.minehut.gg
 0.0.0.0 felinacraftnetwork.mcsh.io
+0.0.0.0 femboyenjoyr.minehut.gg
 0.0.0.0 fenetwork.join-mc.net
 0.0.0.0 fenykmc.ooguy.com
 0.0.0.0 feralkits.minehut.gg
@@ -4059,6 +4074,7 @@
 0.0.0.0 flowerrealms.com
 0.0.0.0 flowerrealms.minehut.gg
 0.0.0.0 floxzgens.minehut.gg
+0.0.0.0 flsfksf.minehut.gg
 0.0.0.0 fltechminecraft.pracc.club
 0.0.0.0 fluf201smp.aternos.me
 0.0.0.0 fluffycraft.net
@@ -4093,6 +4109,7 @@
 0.0.0.0 forgedfactions.net
 0.0.0.0 forgelight.minehut.gg
 0.0.0.0 forgemc.elixirno.de
+0.0.0.0 forgoteggnog.minehut.gg
 0.0.0.0 forgottenfortress.apexmc.co
 0.0.0.0 fork.joinserver.ru
 0.0.0.0 fornicity.com.br
@@ -4100,6 +4117,7 @@
 0.0.0.0 forrestgen.minehut.gg
 0.0.0.0 forsakenparadise.my.pebble.host
 0.0.0.0 fort-block.falixsrv.me
+0.0.0.0 fortassault.minehut.gg
 0.0.0.0 fortneg.minehut.gg
 0.0.0.0 fortsmp.xyz
 0.0.0.0 fortunes.minehut.gg
@@ -4175,6 +4193,7 @@
 0.0.0.0 freshsmp.minecraft.best
 0.0.0.0 freshstart-yamt.aternos.me
 0.0.0.0 fresno2026.minehut.gg
+0.0.0.0 fresty.minehut.gg
 0.0.0.0 friedpoopsmp.aternos.me
 0.0.0.0 friend.vanilla.cool
 0.0.0.0 friendlyid.aternos.me
@@ -4200,6 +4219,7 @@
 0.0.0.0 friendssmp2.mcsh.io
 0.0.0.0 friendsvanilla.net
 0.0.0.0 frimejbl.ru
+0.0.0.0 frizkk.minehut.gg
 0.0.0.0 froceevo.aternos.me
 0.0.0.0 frogcraft.org
 0.0.0.0 froggggggsmp.minehut.gg
@@ -4721,6 +4741,7 @@
 0.0.0.0 growapet.minehut.gg
 0.0.0.0 growberry.minehut.gg
 0.0.0.0 growit.minehut.gg
+0.0.0.0 growl2d.minehut.gg
 0.0.0.0 growtimelinesmp.aternos.me
 0.0.0.0 grypl12345678.aternos.me
 0.0.0.0 gsfur2.exaroton.me
@@ -4912,6 +4933,7 @@
 0.0.0.0 heartsmp.aternos.me
 0.0.0.0 heartsmp4.minehut.gg
 0.0.0.0 heartsmpbyk.aternos.me
+0.0.0.0 heartsmpmc.minehut.gg
 0.0.0.0 heartssteal.aternos.me
 0.0.0.0 heartste4lz.minehut.gg
 0.0.0.0 heartstealcore.net
@@ -5056,6 +5078,7 @@
 0.0.0.0 holunderbeerchen.de
 0.0.0.0 holycrafters.com
 0.0.0.0 holyhcf.com
+0.0.0.0 holypvp.net
 0.0.0.0 holyrock.mcs.lol
 0.0.0.0 home.workshopfriends.com
 0.0.0.0 homeempire.aternos.me
@@ -5205,6 +5228,7 @@
 0.0.0.0 hywer.net
 0.0.0.0 hyxiamc.com
 0.0.0.0 hyxxl.enderman.cloud
+0.0.0.0 hyypserv.minehut.gg
 0.0.0.0 hz.hunterz-assaderie.com
 0.0.0.0 i-pixelmon.com
 0.0.0.0 i-reforged.com
@@ -5807,6 +5831,7 @@
 0.0.0.0 justpkciv2.minehut.gg
 0.0.0.0 justpvp.me
 0.0.0.0 justpvp.net
+0.0.0.0 justservers.minehut.gg
 0.0.0.0 justsimplysmp.de
 0.0.0.0 juststuffa.minehut.gg
 0.0.0.0 justv4nilla.minehut.gg
@@ -5983,11 +6008,13 @@
 0.0.0.0 kit.justpvp.me
 0.0.0.0 kit4u.minehut.gg
 0.0.0.0 kitburst.minehut.gg
+0.0.0.0 kitpractice1.minehut.gg
 0.0.0.0 kitpvp.serv.gs
 0.0.0.0 kitpvpandsmp.aternos.me
 0.0.0.0 kitpvpcustom.minehut.gg
 0.0.0.0 kitpvpking.apexmc.co
 0.0.0.0 kitpvpufu0.aternos.me
+0.0.0.0 kitpvvp.minehut.gg
 0.0.0.0 kitrushz.minehut.gg
 0.0.0.0 kitsstrength.minehut.gg
 0.0.0.0 kittycatsmp.eu
@@ -6407,6 +6434,7 @@
 0.0.0.0 liquidium.uk
 0.0.0.0 liquidmc.net
 0.0.0.0 liry26.aternos.me
+0.0.0.0 lisla.minehut.gg
 0.0.0.0 list.blocaria.net
 0.0.0.0 list.crystaliamc.com
 0.0.0.0 list.minepiece.net
@@ -6491,6 +6519,7 @@
 0.0.0.0 lostlands.shockbyte.xyz
 0.0.0.0 lostm.falixsrv.me
 0.0.0.0 lostmc.mcserver.in
+0.0.0.0 lostmp.minehut.gg
 0.0.0.0 lostpie.aternos.me
 0.0.0.0 lostseeker-syxj.aternos.me
 0.0.0.0 lostsmpyq0p.aternos.me
@@ -6609,6 +6638,7 @@
 0.0.0.0 m0us3.minehut.gg
 0.0.0.0 m1.matrixhosting.in
 0.0.0.0 m1n1ng.minehut.gg
+0.0.0.0 m3ga53rv3r.minehut.gg
 0.0.0.0 m4gmasmp.aternos.me
 0.0.0.0 m8mc.nextyhost.fun
 0.0.0.0 mablesmp.net
@@ -7234,6 +7264,7 @@
 0.0.0.0 mc.gearhex.net
 0.0.0.0 mc.geckwiz.dev
 0.0.0.0 mc.genxesmp.com
+0.0.0.0 mc.genxworld.in
 0.0.0.0 mc.geodacraft.xyz
 0.0.0.0 mc.geodecraft.net
 0.0.0.0 mc.georgian.co
@@ -7305,6 +7336,7 @@
 0.0.0.0 mc.imagiconnd.com
 0.0.0.0 mc.imagineeringfun.net
 0.0.0.0 mc.in-sky.eu
+0.0.0.0 mc.indbeastsmp.in
 0.0.0.0 mc.infernalslaughter.com
 0.0.0.0 mc.infernocraftsmp.xyz
 0.0.0.0 mc.infinityop.net
@@ -7475,6 +7507,7 @@
 0.0.0.0 mc.mineheaven.ir
 0.0.0.0 mc.minekai.com
 0.0.0.0 mc.mineland.net
+0.0.0.0 mc.mineland.pl
 0.0.0.0 mc.minelanders.com
 0.0.0.0 mc.minelands.it
 0.0.0.0 mc.minelatino.net
@@ -7631,6 +7664,7 @@
 0.0.0.0 mc.playasw.com
 0.0.0.0 mc.playbalkan.org
 0.0.0.0 mc.playchameleon.net
+0.0.0.0 mc.playcovesmp.com
 0.0.0.0 mc.playdeathsmp.net
 0.0.0.0 mc.playdelphi.com
 0.0.0.0 mc.playkig.com
@@ -7928,6 +7962,7 @@
 0.0.0.0 mc.ussr.space
 0.0.0.0 mc.valence-smp.net
 0.0.0.0 mc.valhalabr.online
+0.0.0.0 mc.valhallacraft.org
 0.0.0.0 mc.valkyrian-network.com
 0.0.0.0 mc.vanguardmc.org
 0.0.0.0 mc.vanillaexperience.org
@@ -8392,6 +8427,7 @@
 0.0.0.0 minecraft.minipig.org
 0.0.0.0 minecraft.nznetwork.co.nz
 0.0.0.0 minecraft.oldfartsgaming.com
+0.0.0.0 minecraft.org.pl
 0.0.0.0 minecraft.playhousesmp.com
 0.0.0.0 minecraft.retroid.es
 0.0.0.0 minecraft.runsafe.no
@@ -8657,6 +8693,7 @@
 0.0.0.0 moneydollassmp.aternos.me
 0.0.0.0 moneydubsmc.aternos.me
 0.0.0.0 moneyfight.minehut.gg
+0.0.0.0 moneyhere.minehut.gg
 0.0.0.0 moneymc.net
 0.0.0.0 moneyrealms.minehut.gg
 0.0.0.0 moneyssmpp.minehut.gg
@@ -9096,6 +9133,7 @@
 0.0.0.0 nexitcube.net
 0.0.0.0 nexium.minehut.gg
 0.0.0.0 nexominecraft.online
+0.0.0.0 nexora.ext.io
 0.0.0.0 nexoramc.mineserver.uno
 0.0.0.0 nexorasmp.net
 0.0.0.0 nexoscom.aternos.me
