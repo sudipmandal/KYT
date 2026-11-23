@@ -1617,6 +1617,7 @@
 0.0.0.0 regaliagame.com
 0.0.0.0 regionsofruin.com
 0.0.0.0 register.thesecretworld.com
+0.0.0.0 relicsurvivors.com
 0.0.0.0 relink.granbluefantasy.jp
 0.0.0.0 remarque.org
 0.0.0.0 remnantsgame.com
