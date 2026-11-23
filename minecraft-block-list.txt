@@ -18,6 +18,7 @@
 0.0.0.0 0dogesmp0.minehut.gg
 0.0.0.0 0x.kro.kr
 0.0.0.0 1-21-8-mc-survival.duckdns.org
+0.0.0.0 1.hungergames-mc.fr
 0.0.0.0 10.minehut.gg
 0.0.0.0 1000x1000kitpvp.aternos.me
 0.0.0.0 100gqopen.se
@@ -292,6 +293,7 @@
 0.0.0.0 abyssbay.net
 0.0.0.0 abyssffaz.minehut.gg
 0.0.0.0 abysshatterd.minehut.gg
+0.0.0.0 abysskitzz.minehut.gg
 0.0.0.0 abysskkits.minehut.gg
 0.0.0.0 abyssminesss.minehut.gg
 0.0.0.0 abyssmpkit.minehut.gg
@@ -531,6 +533,7 @@
 0.0.0.0 amanpvp08.aternos.me
 0.0.0.0 amazedsmp.minehut.gg
 0.0.0.0 amazehut.minehut.gg
+0.0.0.0 amazingskys.minehut.gg
 0.0.0.0 amazingxsmp.minehut.gg
 0.0.0.0 amazon-relationship.gl.joinmc.link
 0.0.0.0 amazonshop.aternos.me
@@ -1081,6 +1084,7 @@
 0.0.0.0 b.fizzypvp.scalacube.co
 0.0.0.0 b0xxies.minehut.gg
 0.0.0.0 b1.kuromc.fun
+0.0.0.0 b1ahb1ah.minehut.gg
 0.0.0.0 b1c4smp.playmc.cool
 0.0.0.0 b1smp.aternos.me
 0.0.0.0 b2b.mcsh.io
@@ -2015,6 +2019,7 @@
 0.0.0.0 caspiasmp.minehut.gg
 0.0.0.0 cassiodovasco.aternos.me
 0.0.0.0 castarbliss1.minehut.gg
+0.0.0.0 castlekeep.minehut.gg
 0.0.0.0 castogang.cldly.gg
 0.0.0.0 casual.universemc.us
 0.0.0.0 casualminecraft.fun
@@ -2472,6 +2477,7 @@
 0.0.0.0 cozyhomesteadsmp.minecraft.horse
 0.0.0.0 cozyyysmp.minehut.gg
 0.0.0.0 cp.momentummc.ca
+0.0.0.0 cp.stellar-mc.com
 0.0.0.0 cpd-hc.com
 0.0.0.0 cpmc.mineplay.xyz
 0.0.0.0 cpp.vantyr.net
@@ -2981,6 +2987,7 @@
 0.0.0.0 derseegler.de
 0.0.0.0 desc.diamondworld.gg
 0.0.0.0 desertcraft.falix.gg
+0.0.0.0 desertedmace.minehut.gg
 0.0.0.0 desicraft.live
 0.0.0.0 desiresmp.argonix.fun26168
 0.0.0.0 desolaterealms.com
@@ -4607,6 +4614,7 @@
 0.0.0.0 goddesodeath.minehut.gg
 0.0.0.0 goddesogems.minehut.gg
 0.0.0.0 goddid26.minehut.gg
+0.0.0.0 godgemsw.minehut.gg
 0.0.0.0 godgoku1337.aternos.me
 0.0.0.0 godlesssmp.aternos.me
 0.0.0.0 godmadmad.aternos.me
@@ -5039,6 +5047,7 @@
 0.0.0.0 high33.lordcloud.ovh
 0.0.0.0 highcraft.vip
 0.0.0.0 highdragon.aternos.me
+0.0.0.0 highlowskirt.minehut.gg
 0.0.0.0 highnet.go.ro
 0.0.0.0 highschoolsmp698dex.aternos.me
 0.0.0.0 hileefsanesiboxpvp.aternos.me
@@ -5199,6 +5208,7 @@
 0.0.0.0 hypeblock.aternos.me
 0.0.0.0 hypecrafteu.minefort.com
 0.0.0.0 hypen.mc-dns.net
+0.0.0.0 hyperblockmc.minehut.gg
 0.0.0.0 hypercoolsmp.pixelforge.gg
 0.0.0.0 hypercrafts.es
 0.0.0.0 hyperionrealms.mcpro.io
@@ -6174,6 +6184,7 @@
 0.0.0.0 lapeace.duckdns.org
 0.0.0.0 lapeaceo.aternos.me
 0.0.0.0 lappismp.oops.wtf
+0.0.0.0 largeggplant.minehut.gg
 0.0.0.0 largeparkour.aternos.me
 0.0.0.0 larger-condos.gl.joinmc.link
 0.0.0.0 larm.minehut.gg
@@ -6214,6 +6225,7 @@
 0.0.0.0 lawnmc-survival.aternos.me
 0.0.0.0 lawsynnetworks.mcserver.us
 0.0.0.0 laypixelmc.aternos.me
+0.0.0.0 laze.minehut.gg
 0.0.0.0 lazytopeek.aternos.me
 0.0.0.0 lazzzzyboy.aternos.me
 0.0.0.0 lc-mc.com
@@ -6666,6 +6678,7 @@
 0.0.0.0 macified.minehut.gg
 0.0.0.0 macrochasm.net
 0.0.0.0 madarffji.minekeep.gg
+0.0.0.0 maddieconnie.minehut.gg
 0.0.0.0 madeiracraft.mcnetwork.me
 0.0.0.0 madland.aternos.me
 0.0.0.0 madnesskits.minehut.gg
@@ -6688,6 +6701,7 @@
 0.0.0.0 magicmc.vn
 0.0.0.0 magicpixel.aternos.me
 0.0.0.0 magicspellcraft.aternos.me
+0.0.0.0 magictesting.minehut.gg
 0.0.0.0 magicwolfmc.de
 0.0.0.0 magmaticdupe.minehut.gg
 0.0.0.0 magmusvedeadege.com
@@ -6916,6 +6930,7 @@
 0.0.0.0 mc.akiogames.com
 0.0.0.0 mc.akoot.co
 0.0.0.0 mc.aleshabo.info
+0.0.0.0 mc.alienstudioz.com
 0.0.0.0 mc.alliancecraft.ru
 0.0.0.0 mc.aloria.us
 0.0.0.0 mc.amethystcommunity.net
@@ -7888,6 +7903,7 @@
 0.0.0.0 mc.supergoat.land
 0.0.0.0 mc.suralt.com
 0.0.0.0 mc.survine.net
+0.0.0.0 mc.survitg.com
 0.0.0.0 mc.survival-world.net
 0.0.0.0 mc.survivalcraft.info
 0.0.0.0 mc.survivaldub.com
@@ -9125,6 +9141,7 @@
 0.0.0.0 newminecraftver.aternos.me
 0.0.0.0 newparadisenetpk.aternos.me
 0.0.0.0 newrossoanarchy.aternos.me
+0.0.0.0 newserver55.minehut.gg
 0.0.0.0 newteasmp.aternos.me
 0.0.0.0 newwesteros.aternos.me
 0.0.0.0 newworld.it.com
@@ -9171,6 +9188,7 @@
 0.0.0.0 nightfallmc.cbu.net
 0.0.0.0 nightfallsmp.mcserver.us
 0.0.0.0 nightfight.net
+0.0.0.0 nightl0rds1.minehut.gg
 0.0.0.0 nightl0rdsmp.minehut.gg
 0.0.0.0 nightlypiratecinema.aternos.me
 0.0.0.0 nightmare-smp.feathermc.gg
@@ -9440,6 +9458,7 @@
 0.0.0.0 oldporpise0.aternos.me
 0.0.0.0 olds-vhs.tun.ply.gg
 0.0.0.0 oldschoolsb.g-s.nu
+0.0.0.0 olimpio.falixsrv.me
 0.0.0.0 olimpocraft.me
 0.0.0.0 olympus.ltxhosting.net
 0.0.0.0 olympus.mcsh.io
