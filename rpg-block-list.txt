@@ -172,6 +172,7 @@
 0.0.0.0 auto-page.37games.com
 0.0.0.0 avabelonline.com
 0.0.0.0 avowed.obsidian.net
+0.0.0.0 avs03.com
 0.0.0.0 aw.mgame.com
 0.0.0.0 awvssao.bn-ent.net
 0.0.0.0 axolstudio.com
@@ -659,6 +660,7 @@
 0.0.0.0 eyesinthedarkgame.com
 0.0.0.0 eyezarygames.com
 0.0.0.0 f7.163.com
+0.0.0.0 fablia.ai
 0.0.0.0 fabulargame.com
 0.0.0.0 fadetosilence.com
 0.0.0.0 fadingclubgames.tumblr.com
@@ -1682,6 +1684,7 @@
 0.0.0.0 ruinedking.com
 0.0.0.0 ruinsmagus.com
 0.0.0.0 run-games.com
+0.0.0.0 rune-night.web.app
 0.0.0.0 runefactory.marv.jp
 0.0.0.0 runeknights.com
 0.0.0.0 runicrampage.com
