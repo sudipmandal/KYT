@@ -372,6 +372,7 @@
 0.0.0.0 aevonsmp.online
 0.0.0.0 afanjeretard.aternos.me
 0.0.0.0 affenpinscher.aternos.host
+0.0.0.0 afflicted.minehut.gg
 0.0.0.0 afiqpnation.progamer.me
 0.0.0.0 afjnetwork.aternos.me
 0.0.0.0 afkable.minehut.gg
@@ -896,6 +897,7 @@
 0.0.0.0 astraysmp.falixsrv.me
 0.0.0.0 astrion.aternos.me
 0.0.0.0 astrixsmp.net
+0.0.0.0 astroharvest.minehut.gg
 0.0.0.0 astrolandbyphoenix.aternos.me
 0.0.0.0 astromine.lat
 0.0.0.0 astronia.mc.gg
@@ -1211,6 +1213,7 @@
 0.0.0.0 bazaarsmp.minehut.gg
 0.0.0.0 bazooka.falix.gg
 0.0.0.0 bazookagg.falix.gg
+0.0.0.0 bb-blockbuster.de
 0.0.0.0 bbbfirebosmp.minehut.gg
 0.0.0.0 bbmk.minehut.gg
 0.0.0.0 bc.bomberbude.de
@@ -1851,6 +1854,7 @@
 0.0.0.0 bulid.attsmp.aternos.me
 0.0.0.0 bull.aternos.host
 0.0.0.0 bunkered.minehut.gg
+0.0.0.0 bunkymc.minehut.gg
 0.0.0.0 bunnies.playsmp.xyz
 0.0.0.0 bunnyclub.sytes.net
 0.0.0.0 burazneznam1.minehut.gg
@@ -2147,6 +2151,7 @@
 0.0.0.0 cherryvalley.cookiehost.uk
 0.0.0.0 chestcraft.pl
 0.0.0.0 chestworldsmp.feathermc.gg
+0.0.0.0 cheztorment.minehut.gg
 0.0.0.0 chickenb.minehut.gg
 0.0.0.0 chickenbutt.aternos.me
 0.0.0.0 chickencraft.apexmc.co
@@ -2167,6 +2172,7 @@
 0.0.0.0 chillycraft.minekeep.gg
 0.0.0.0 chillysmp-sigma.aternos.me
 0.0.0.0 chillz.mcsh.io
+0.0.0.0 chinawarfare.minehut.gg
 0.0.0.0 chineseballoon.aternos.me
 0.0.0.0 chips.lets.game
 0.0.0.0 chlebagang.aternos.me
@@ -2651,6 +2657,7 @@
 0.0.0.0 crimsontide.mcsh.io
 0.0.0.0 crisde1203.aternos.me
 0.0.0.0 crispsmp.exaroton.me
+0.0.0.0 cristalines.minehut.gg
 0.0.0.0 cristalpvp.tkmc.me
 0.0.0.0 cristofersito909.aternos.me
 0.0.0.0 criticalnetwork.top
@@ -2755,6 +2762,7 @@
 0.0.0.0 customsssmp.minehut.gg
 0.0.0.0 customstable.minehut.gg
 0.0.0.0 customsurvivalmulti.aternos.me
+0.0.0.0 cutesmp.net
 0.0.0.0 cutpunchbone.minehut.gg
 0.0.0.0 cuzinworld25.minehut.gg
 0.0.0.0 cv.cursedvoids.us
@@ -3002,6 +3010,7 @@
 0.0.0.0 devil-bvbr.aternos.me
 0.0.0.0 devilcracked.aternos.me
 0.0.0.0 devilkm.aternos.me
+0.0.0.0 devilsaltar.minehut.gg
 0.0.0.0 devourlife.aternos.me
 0.0.0.0 devproduce.minehut.gg
 0.0.0.0 devsanarchy.xyz
@@ -3124,6 +3133,7 @@
 0.0.0.0 domicraft.online
 0.0.0.0 dominia.my.pebble.host
 0.0.0.0 dominikoaza.aternos.me
+0.0.0.0 dominionmc.softhost.pro
 0.0.0.0 dominionserver.net
 0.0.0.0 donatmc.tkmc.net
 0.0.0.0 donator34.gamely.pro
@@ -3373,6 +3383,7 @@
 0.0.0.0 earthone.wisemc.fun
 0.0.0.0 earthourcommunity.aternos.me
 0.0.0.0 earthsea.mc.gg
+0.0.0.0 earthskraft.net
 0.0.0.0 earthsmp.lol
 0.0.0.0 earthsmp2belike.aternos.me
 0.0.0.0 earthvision.eu
@@ -3387,6 +3398,7 @@
 0.0.0.0 ebatu.aternos.me
 0.0.0.0 ebkkrew.minehut.gg
 0.0.0.0 ec-mc.net
+0.0.0.0 ec0n0my.minehut.gg
 0.0.0.0 ech0craftpvp.minehut.gg
 0.0.0.0 echo-isles.apexmc.co
 0.0.0.0 echo.fpr.net
@@ -5740,6 +5752,7 @@
 0.0.0.0 join.cyt.gg
 0.0.0.0 join.dogefun.net
 0.0.0.0 join.everfieldmc.com
+0.0.0.0 join.fatalmc.org
 0.0.0.0 join.fluxus.org
 0.0.0.0 join.futureleague.de
 0.0.0.0 join.gaialegends.pro
@@ -5831,6 +5844,7 @@
 0.0.0.0 jupitercraft.online
 0.0.0.0 jupitersmp.net
 0.0.0.0 jurassicraftsmp.aternos.me
+0.0.0.0 jurosot.minehut.gg
 0.0.0.0 justanotherhardcore.net
 0.0.0.0 justarandomp2wsmp.aternos.me
 0.0.0.0 justaregsmp.minehut.gg
@@ -5962,6 +5976,7 @@
 0.0.0.0 killion.ironcladnetwork.us
 0.0.0.0 killmine.minehut.gg
 0.0.0.0 killokianarchy.aternos.me
+0.0.0.0 kilngens.minehut.gg
 0.0.0.0 kimasurvival.aternos.me
 0.0.0.0 kimicraft.net
 0.0.0.0 kindleroot.gameservers.fun
@@ -8704,6 +8719,7 @@
 0.0.0.0 mon.rages.zone
 0.0.0.0 monarchgames.fun
 0.0.0.0 monarchia.fun
+0.0.0.0 monarchism.minehut.gg
 0.0.0.0 monasxinas.duckdns.org
 0.0.0.0 moncraft.serveminecraft.net
 0.0.0.0 moneydollassmp.aternos.me
@@ -10141,6 +10157,7 @@
 0.0.0.0 play.articsmp.fun
 0.0.0.0 play.artixdev.net
 0.0.0.0 play.arunify.com
+0.0.0.0 play.arvexmc.com
 0.0.0.0 play.ascendmc.net
 0.0.0.0 play.ascendpvp
 0.0.0.0 play.ascensionsmp.net
@@ -10550,6 +10567,7 @@
 0.0.0.0 play.cognitioncube.net
 0.0.0.0 play.coldclutch.net
 0.0.0.0 play.coldmc.com
+0.0.0.0 play.coldnetwork.net
 0.0.0.0 play.colombiacraft.fun
 0.0.0.0 play.colosseumrealms.xyz
 0.0.0.0 play.coltmc.bond
