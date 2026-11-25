@@ -2218,6 +2218,7 @@
 0.0.0.0 weibo.com
 0.0.0.0 weirdwest.com
 0.0.0.0 werewolf-videogame.com
+0.0.0.0 werewolvesrevenge.com
 0.0.0.0 westofloathing.com
 0.0.0.0 whitegiantrpg.com
 0.0.0.0 whiteknuckle.net
