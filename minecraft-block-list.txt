@@ -694,6 +694,7 @@
 0.0.0.0 aodhs.minehut.gg
 0.0.0.0 aokibox.minehut.gg
 0.0.0.0 aorprasin.aternos.me
+0.0.0.0 aotss.minehut.gg
 0.0.0.0 apathesia.ddns.net
 0.0.0.0 apersonsbasement.mcnetwork.me
 0.0.0.0 apetown.tk
@@ -1305,6 +1306,7 @@
 0.0.0.0 bedrock.sunrealms.net
 0.0.0.0 bedrock.survielpa.online
 0.0.0.0 bedrock.thecribmc.com
+0.0.0.0 bedrock.theocraft.net
 0.0.0.0 bedrock.timeforged.net
 0.0.0.0 bedrock.toxigon.org
 0.0.0.0 bedrock.trappedmc.com
@@ -3012,6 +3014,7 @@
 0.0.0.0 desolationmc.servegame.com
 0.0.0.0 destiny-network.online
 0.0.0.0 destinymcy.aternos.me
+0.0.0.0 detailedsmp.aternos.me
 0.0.0.0 determinacy.net
 0.0.0.0 dev.mintservers.com
 0.0.0.0 devanandhgaming.mcnetwork.me
@@ -3099,6 +3102,7 @@
 0.0.0.0 discovery.stargate.rocks
 0.0.0.0 discycraft.eu
 0.0.0.0 disease-twisted.gl.joinmc.link
+0.0.0.0 disids.minehut.gg
 0.0.0.0 diskomoreno.aternos.me
 0.0.0.0 dismajnr.aternos.me
 0.0.0.0 disrites.aternos.me
@@ -3579,6 +3583,7 @@
 0.0.0.0 enchantedmc.net
 0.0.0.0 enchantgens.minehut.gg
 0.0.0.0 enchantsmps1.minehut.gg
+0.0.0.0 enchantsmps3.minehut.gg
 0.0.0.0 enchanttsmp.minehut.gg
 0.0.0.0 encoremc.net
 0.0.0.0 endcity.net
@@ -3947,6 +3952,7 @@
 0.0.0.0 fastnote.falixsrv.me
 0.0.0.0 fatalfluff.minehut.gg
 0.0.0.0 fatalitynetwork.us
+0.0.0.0 fatbee.minehut.gg
 0.0.0.0 fatewarriors.mcnetwork.me
 0.0.0.0 fatfatfat333.minehut.gg
 0.0.0.0 father-put.gl.joinmc.link
@@ -4489,6 +4495,7 @@
 0.0.0.0 genesis.minecraft.best
 0.0.0.0 genesissmp.mooo.com
 0.0.0.0 genfeast.com
+0.0.0.0 genfields.minehut.gg
 0.0.0.0 genfruit.minehut.gg
 0.0.0.0 gengar.enchantmc.com
 0.0.0.0 genhollow.minehut.gg
@@ -4503,6 +4510,7 @@
 0.0.0.0 gens.plumsmp.net
 0.0.0.0 gens.stardew.net
 0.0.0.0 genshq.minehut.gg
+0.0.0.0 gensie.minehut.gg
 0.0.0.0 gensland.minehut.gg
 0.0.0.0 gensmpz.minehut.gg
 0.0.0.0 gensyeah1.minehut.gg
@@ -4970,6 +4978,7 @@
 0.0.0.0 heartsmpbyk.aternos.me
 0.0.0.0 heartsmpmc.minehut.gg
 0.0.0.0 heartssteal.aternos.me
+0.0.0.0 heartst3alth.minehut.gg
 0.0.0.0 heartste4lz.minehut.gg
 0.0.0.0 heartstealcore.net
 0.0.0.0 heartsteall.aternos.me
@@ -4999,6 +5008,7 @@
 0.0.0.0 helloimluke2.minehut.gg
 0.0.0.0 hellosmp.com
 0.0.0.0 hellz3fd.aternos.me
+0.0.0.0 helpmeee.exaroton.me
 0.0.0.0 henckel.servegame.com
 0.0.0.0 henerysmp.aternos.me
 0.0.0.0 henrysmp.bedrock.minekeep.gg
@@ -5102,6 +5112,7 @@
 0.0.0.0 hivemc.top
 0.0.0.0 hk3kevin.aternos.me
 0.0.0.0 hk3kiana.aternos.me
+0.0.0.0 hlkt.minehut.gg
 0.0.0.0 hmac.mc.gg
 0.0.0.0 hoaluke.aternos.me
 0.0.0.0 hoed.minehut.gg
@@ -5361,6 +5372,7 @@
 0.0.0.0 impactz.minehut.gg
 0.0.0.0 impendmc.minehut.gg
 0.0.0.0 imperialrealm.exaroton.me
+0.0.0.0 imperialsmp.my.pebble.host
 0.0.0.0 imperio.games
 0.0.0.0 imperiohispano.net
 0.0.0.0 important.aternos.me
@@ -5420,6 +5432,7 @@
 0.0.0.0 india2.freegamehost.xyz
 0.0.0.0 india2.hexhost.in
 0.0.0.0 indiamc.net
+0.0.0.0 indianmc.in
 0.0.0.0 indiapur.mc-join.com
 0.0.0.0 indigomc.serv.nu
 0.0.0.0 indiswrld.mc.gg
@@ -6063,6 +6076,7 @@
 0.0.0.0 kittycraft.ddns.net
 0.0.0.0 kittyisle.minehut.gg
 0.0.0.0 kittykitz.minehut.gg
+0.0.0.0 kitzx.falixsrv.me
 0.0.0.0 kiwismp.fun
 0.0.0.0 kjsmc02.koopjeserver.nl
 0.0.0.0 kkarsmp.aternos.me
@@ -6499,6 +6513,7 @@
 0.0.0.0 livesmps2.minehut.gg
 0.0.0.0 livingkeyin6.aternos.me
 0.0.0.0 livinglifesmp.exaroton.me
+0.0.0.0 livingstake.minehut.gg
 0.0.0.0 lizardcraft.mc.gg
 0.0.0.0 ljmsmp.shockbyte.pro
 0.0.0.0 lkanarchy.aternos.me
@@ -6520,6 +6535,7 @@
 0.0.0.0 lodkits.minehut.gg
 0.0.0.0 logan200019.aternos.me
 0.0.0.0 loggygamer5270.aternos.me
+0.0.0.0 logicalmc.aternos.me
 0.0.0.0 logowhilesmp.bedrock.minehut.gg
 0.0.0.0 logowhilesmp.minehut.gg
 0.0.0.0 logvpn.ddns.net
@@ -7323,6 +7339,7 @@
 0.0.0.0 mc.ggsmp.net
 0.0.0.0 mc.ggtylerr.dev
 0.0.0.0 mc.ghostsurvival.net
+0.0.0.0 mc.giraumon.online
 0.0.0.0 mc.gladmc.com
 0.0.0.0 mc.glogs.us
 0.0.0.0 mc.glorpnet.me
@@ -7955,6 +7972,7 @@
 0.0.0.0 mc.tatteredtail.bar
 0.0.0.0 mc.tcsmp.net
 0.0.0.0 mc.team-neo.com
+0.0.0.0 mc.teamencrypted.com
 0.0.0.0 mc.teamnx.net
 0.0.0.0 mc.technonetwork.xyz
 0.0.0.0 mc.teh3l3m3nts.com
@@ -8689,6 +8707,7 @@
 0.0.0.0 mithrilia.com
 0.0.0.0 mithrilmagic.com
 0.0.0.0 mitslo.net
+0.0.0.0 mitterbrpg.mc.gg
 0.0.0.0 mixedsmps.minehut.gg
 0.0.0.0 mixiess2.aternos.me
 0.0.0.0 miya4930.aternos.me
@@ -9285,6 +9304,7 @@
 0.0.0.0 node-ger-01.galaxichost.com
 0.0.0.0 node.buildhost.site
 0.0.0.0 node.griefnode.fun
+0.0.0.0 node.minehut.gg
 0.0.0.0 node.phoenixedgebd.xyz
 0.0.0.0 node.vividmcc.com
 0.0.0.0 node.vulskov.com
