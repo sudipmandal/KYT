@@ -646,6 +646,7 @@
 0.0.0.0 eu.4game.com
 0.0.0.0 eu.finalfantasyxiv.com
 0.0.0.0 evercraftonline.com
+0.0.0.0 everlane-online.de
 0.0.0.0 everquestonlineadventures.station.sony.com
 0.0.0.0 everslaught.com
 0.0.0.0 eville-game.com
