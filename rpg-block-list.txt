@@ -1497,6 +1497,7 @@
 0.0.0.0 playism-games.com
 0.0.0.0 playism.com
 0.0.0.0 playito.com
+0.0.0.0 playlayer2.com
 0.0.0.0 playm2m.org
 0.0.0.0 playminicraft.com
 0.0.0.0 playmistover.com
