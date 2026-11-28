@@ -1914,6 +1914,7 @@
 0.0.0.0 stygianthegame.com
 0.0.0.0 subsetgames.com
 0.0.0.0 suho.433.co.kr
+0.0.0.0 summereternal.com
 0.0.0.0 summermara.com
 0.0.0.0 summoner2.com
 0.0.0.0 summonersfate.com
